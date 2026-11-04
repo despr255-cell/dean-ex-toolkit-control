@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.45",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.45/Dean_ExToolkit_v1.9.45_GIF_COMING_SOON.zip",
-    "sha256": "90e04edcab94ef9d96c2fbd0aded6b7e1e56dfed2e7e5280cdb53579e906025f",
-    "notes": "Added a GIF section with a Coming soon.. placeholder."
+    "version": "1.9.46",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.46/Dean_ExToolkit_v1.9.46_LOGOUT_LIBRARY.zip",
+    "sha256": "526a9e325b7fdcc8815bcebaa6cd32cdc154641f3d1ee736bae6af2ae8792575",
+    "notes": "Added sign-out control to switch access keys and added Library section with Coming soon.."
   },
-  "signature": "QPP8UAzmK76RDBpl+IMH12zFLcePUS2DcJ7+rNHf9XGnZU068xgx2B8wt81t0Ga+xMNYPiS5nlBFywAp/gv3OsWec7SgaEp2Qh6JAidYTrSJT2NEvnpQ5NjLaRbwGrdOVDYe6U/vQ+XxBzO0pbwToIP+cmN/NyLtaW/Qy0/h08J6uO6A+tBwDRldxQpdhU7XMAEBCeQhfojOefMAvGU5VBF98eDJ2dln5rmEHhWy/iQ+5W66w15qVmWxBre1seqmuMAtb0IN5BUq73IPtht0cNWHlSrrlAPkdv+MIjf1ZZjmXx6jUkTo3pQ4eoMwftCSSRWxQ4t66NsY7oEyUgCUrNMBIvusonGUh1ROk610D1/nlDmFKn6S+jM43JEa18NgTW8IofBZaeohO8dAh7t36t/4GbTNfcnOQ1XDgGhuIGBz2ps/q+zl5ydmtFHhSHLG2g6ffxUeFNXPZTDuFnWVxOpetl3U6ryGBWjvVRg2hlr6+skBZAdgghFO3UXZEMIc"
+  "signature": "M0o8+fU44D/Qlu5gGWqgyqZCx+oQvLHAYUmVVqpeG3gOIG0BRaW73UgkmA9eH3CYOrX7DJdJ17byrC0l9K1PsoBusFL2LNBNVx5GdeN9PlCTEhbGjT2bAWaO6LTkmc0BOdBvwZ6UH44j91pWo63YGu/7D+avFSAY71gebQ6/ltI7ilIggHDbkr7L7dBIKeacR6rafNePbzjk129K+Egh06FdMxBnKPWZ6r7tegQPHipcOQw7k6wktOoI9kDekBx+mc8o49JuaSmdXOUYbUU0h3b5xhBxUd43bSNal/05PlX+4Aj4Srj4nezlkfHp8dWQOcKbaKYGieFq9LdFia/Az/eVnKWl8I98YVKn/X5cyd0rzVjqQZSjCZH8hdCZo+Kdee4+o88tj0pRZDExQrdXCCuJvfEGeZ/v25JVJv3dCag64Qsz9w10kJfyfE5gF4yJMyx1rmV6tlST8ryx2LQxsxs6tqYHlPRw6nHCK+Hm1sIP/jdJybciphJfuGM9gyiA"
 }
