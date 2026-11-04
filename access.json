@@ -3,7 +3,9 @@
     "product": "DeanExToolkit",
     "enabled": true,
     "message": "Access temporarily disabled by owner.",
-    "licenses": {}
+    "licenses": {
+      "89e137fd174b78073d05995d51e425e4dce9e95ec97ae2f395cbecaa6ee1fc6c": true
+    }
   },
-  "signature": "REPLACE_WITH_SIGNATURE"
+  "signature": "aNnJ+B0k0XzREtVWCj2BeK2QbvFYGO54gII7Km+0Xe51HgR400u95f54scD/x9q829yLxxV5PmeE9+ob9/83o1u3PU6UYTyjwb1bYW5HEcwI4m0ds6P6ejaXnHKrLNd0Bt72I73c4F40A51VFoeOrHEIPh2LQsANydSu90UuWZbO/Veh1F2kQiIzW8OWHtXlRDeJDfSWkEZeouPMkV5S4FnLvpbJxYUT3i47iNMlfllXe322NF7+UvbYIMnvxCtTvOnoGfWh55dZVR2JCkLYKd+wWy29wz19eCLj8lsrrG+kVr1qqUev+nLtSY3ECcAOk36dAQjyo8SRfTtHgur7JTsb4/7dIbOGiaZcOFCMOcg8ciaE/fWbH+IA4NuLjB30FuZUiNO56td0vwAiqhxg1IU7VWwAKPICaHKrP8wc17CCy/xcQgUN7B+THNJxm+YhkvhqrHcwH229VU5cUNv8ceaDn6dqXlZIEKk5c7xRNYJdGFLFm42PDlzH1O9dYph9"
 }
