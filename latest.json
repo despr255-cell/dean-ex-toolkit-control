@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.43",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.43/Dean_ExToolkit_v1.9.43_LATEST_LABEL.zip",
-    "sha256": "65a13bce425d940ecadace2d1a7bbe09aa8900de2874360b49f893d2c3334c60",
-    "notes": "Latest version label update"
+    "version": "1.9.44",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.44/Dean_ExToolkit_v1.9.44_STYLE_ADJUSTMENTS_COLLAPSED.zip",
+    "sha256": "d2ef370610c7f4048a36db6aff663d38f4f2e650f28d6e57bd40dede0f1b5293",
+    "notes": "STYLE ADJUSTMENTS по умолчанию свернуты в Spinbetter и Coldbet."
   },
-  "signature": "tDmr58mCwoSwvNUP3hS32hceY8xkp2nd5lYvXMU/pf6zYCGQUpwof8ncVndScTt3znnr2DTr1xrhTU4yv1gHm90HSsdR0AcwGKm+y4NSIbDzLVse8fZJTEVMiKLje9MTlJXRVx9X4H37QE7YZXU8ZETxm9qbywN0fi6w0jfR0J8OC4HheHPpzmyB13wJtD5ltj/uYNeQoXs1KIWKXggJD96OMpqy1IW7848oAxh50Q5zqTKKItUE5Q6kR6oJrUCbHnVf/TYS1jmboYbMcFvV1+O2LKBEO694aNMHYOlfd+/HCQAnkZFC4AA1cUdtdnguwe04J4b6KgBhsQ4VNktnG4FpihQ76QRw/rMM2Xlj3qzuF9tJc/7w00ESs7EQA6d07L8//wHR2riRAnw5QB10Jx10lLBMpz96GlBBOTjRgMg5TQyK9rZLcJT+nC3noQXso/DM0nGoIeaBdAVMRZq+IA3T6Y0V2ZxQz+ODBqV6/26EgeLW100L+prR13ysa29n"
+  "signature": "uC+xzNmyEGQ545cCShQhhNnitBIPRnpZKqWyHz+3eXKqRkKpEcwMEhSKvQMp8i9wMnkgqiOwEWuDcSDQVYbaT9NsBkG8q7kiwWKw47++Twd6ypoiCEfa5jdDfFY/R7rBKTZxEIGv6ZXgVLZ7D8wkJvgKiFBaIxC+rykIgJIYOGQKd5t+Ox6AX9S74fwNeKjkWMDnsTiojjPi1UuTa3o+55Muwy93aI9kgrYiDSQxpZTv+9VQDW2lLFAdGgYALP54jUsPAeiJzyMmMaIjt7wWiim/9/3QF3C+kVI/YnZkbBRW4C3nUCGZO0Kn4E+mQ5jqFp0wSdRPl40UP2lQIuJ2PDrrfs7+usXgW7BUnZwShKYcvoEAWDUv5/80XfBwB3G9APOCyLXIm94ZKNrDyYoPDjgm/FBp/RryV2vd3CFo+mgnPl3mEVTls7HPBGh9fyRXtFFuKe3yhRnRsheyq46enz4A38M+R34PlBH0UHwmrrd/yMuKC8r2NGNZ1QUXqsJ8"
 }
