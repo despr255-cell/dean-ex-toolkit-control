@@ -1,5 +1,9 @@
 {
-  "version": "1.9.38",
-  "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/v1.9.38/Dean_ExToolkit_v1.9.38_FINAL.zip",
-  "notes": "Automatic updater"
+  "release": {
+    "version": "1.9.39",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/v1.9.39/Dean_ExToolkit_v1.9.39_PROTECTED.zip",
+    "sha256": "ae53f8eb179f0014612023672f7a74a8cbcfaa4ca0e79313b8878d6d32941d62",
+    "notes": "Signed update manifest and SHA-256 verified updater. Existing RSA license system preserved."
+  },
+  "signature": "fNJWRIdlbKN6WLbR3wr/2UFgoXiqolZh/sXKJGxmr7KR1euqlyKWu9YffZHUVv3avgWrrsxYLMPA34wXmOWLJ8r8H5kRWN0YMQUx7g59BJxoy4Gr7kSTvm9iBFBeWlMRwQG5ATvJLyJdET+YRXxrxtsQ9yvFcfzkci558GxSRLxpGRmIj47akDy+cvIr8+/qa0wz9+fPY7yslwOReqUmXPrtWdmpKEFolf8fuX/NyjVp/ZlDkFhZ9YpZsDOXQMqNRjt3F+fuH6CzhlaVC5s5T8dzlER1zpoh3YbfnfNEjB7oXzFeyyN6So0deBn16e4MdW/LiyEZy/5eQ3t3f3V9munty+MocUSuvL91FGvOMsAYtCrHP+I9NDqbuqo4xYBef1DdIbZKkcgLN7y3BG64DW6h8G5YNHyD3PPmU0kQB0l8OMUD0CLwG3NWLfC/tO+pWXMSTFdEMx11LwNO3+MafJJfGZFQylRrdhT63LOYvwmlOUaNl2RUPP4keSN5o7zJ"
 }
