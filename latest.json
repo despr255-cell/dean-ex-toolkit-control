@@ -1,12 +1,9 @@
 {
-  "version": "1.9.39",
-  "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/v1.9.39/Dean_ExToolkit_v1.9.39_PROTECTED.zip",
-  "notes": "Signed update manifest and SHA-256 verified updater. Existing RSA license system preserved.",
   "release": {
-    "version": "1.9.39",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/v1.9.39/Dean_ExToolkit_v1.9.39_PROTECTED.zip",
-    "sha256": "ae53f8eb179f0014612023672f7a74a8cbcfaa4ca0e79313b8878d6d32941d62",
-    "notes": "Signed update manifest and SHA-256 verified updater. Existing RSA license system preserved."
+    "version": "1.9.41",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/v1.9.41/Dean_ExToolkit_v1.9.41_COLOR_TUNE.zip",
+    "sha256": "815248ecdf62f8176d97b690fe85e95212586c4c40b2fb2a5a40678757408b5c",
+    "notes": "Spinbetter and Coldbet tab brand tint increased from 10% to 17%. Update progress retained."
   },
-  "signature": "fNJWRIdlbKN6WLbR3wr/2UFgoXiqolZh/sXKJGxmr7KR1euqlyKWu9YffZHUVv3avgWrrsxYLMPA34wXmOWLJ8r8H5kRWN0YMQUx7g59BJxoy4Gr7kSTvm9iBFBeWlMRwQG5ATvJLyJdET+YRXxrxtsQ9yvFcfzkci558GxSRLxpGRmIj47akDy+cvIr8+/qa0wz9+fPY7yslwOReqUmXPrtWdmpKEFolf8fuX/NyjVp/ZlDkFhZ9YpZsDOXQMqNRjt3F+fuH6CzhlaVC5s5T8dzlER1zpoh3YbfnfNEjB7oXzFeyyN6So0deBn16e4MdW/LiyEZy/5eQ3t3f3V9munty+MocUSuvL91FGvOMsAYtCrHP+I9NDqbuqo4xYBef1DdIbZKkcgLN7y3BG64DW6h8G5YNHyD3PPmU0kQB0l8OMUD0CLwG3NWLfC/tO+pWXMSTFdEMx11LwNO3+MafJJfGZFQylRrdhT63LOYvwmlOUaNl2RUPP4keSN5o7zJ"
+  "signature": "ActnExqqtD0uq/EMPrN+toOPiQZ8dTZuDW/RZHKJXe3qDLbRo5CtZW6pBuCLJhLzNGUDfvV1FnzqATgalJI5xXXgDinSj3KHv9YwAbMkrFu4L0hsxgeYdo8+xUeCgLXrBBUhGCr7v58XThfEmWtBVteo2YlYXLBGwg+/NS6sGovKn+mJQmc5Mbz+onzfpgmfogf6lXizcGINWwETfaWAR+KkXOuFcOkVDBzSUnY6XfDbEvogPUbYcJoHq656/ZHE4wfoaA/oEGs+aomN8uLZy8torFcR59eWjceaWHh8fCotHR5gHX0J+BFqwwq4mNUP27ECcu4CCcd6jiRTUfMdxIR/dkMiUDOaoH50/0Gt1vrcOHqMVR9aaMJsHDo2mee7w8OfatbV1SU2bu+bch6jZTw8HEdGyxbIVtViVOsiQHeIZrLI+PIuD10/WbB8Aq4sFocwwawrPePjVnz0DMXvV1cDVCnjNbmRMgzu3j9la0m6ztwzwsTjZErYT3CLg/0h"
 }
