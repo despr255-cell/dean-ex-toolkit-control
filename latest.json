@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.42",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/v1.9.42/Dean_ExToolkit_v1.9.42_UPDATER_FIX.zip",
-    "sha256": "2aed38b48e9f28a94ff606f4ab867f4051dd1eab8afac5ed7c73c53b89399860",
-    "notes": "Fix updater launch and progress reporting; preserve existing license and settings."
+    "version": "1.9.43",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/v1.9.43/Dean_ExToolkit_v1.9.43_LATEST_LABEL.zip",
+    "sha256": "65a13bce425d940ecadace2d1a7bbe09aa8900de2874360b49f893d2c3334c60",
+    "notes": "Latest version label update"
   },
-  "signature": "JDxTx1DnKYGbxFfNiZCZGKhMwxQSnyjWUFDCd3cZ/U4FIFOw3hmxcs+cu/sX8oVQcANlHFtnMn36io4raoxSiRirYVeWQMtwJ9OjwDdkLE0xCXAcW0O4y4WiIRWxm48LMHKGdWqiBZ27qTvzNgl7U4gq0CZorl4jvk14Zu3eOQZDqCxbx1r9Ub0UAM0eORAsjl1LgVJ27y4jIjJShKeHvut8G57xT4Orax4U8sjUBi1ux0utLqmaPmN72Qion7NBVQf+hzhMi9mMh33mHVahApkQKe32+P/HkRBNJXIwp/mYQWcAyvcqtSJGaGcODnjciC9iFA33wpdfwlCwRLVpazXDCm1Nu4DUW0oqL4bxaPLJaE0whFXFgoBYX/pZCAr8bXi86VgVACE2R5AT9WEQoB0CtrIEPwSALgth+Svo4T9s5EnFCbfTuY/rG5kXXueO3TWauW1vuUke1t/RZugi0+1lhmGIcQAsm1185lBBAzqzg+bah7B99E4M8N06LguK"
+  "signature": "f4vWocf4ynS9Ak8lfTXUpN0l0WwPdIn3vBc/PpUcV4hzQhHllwus/MwT9b3452K3J73PN22LGIW99FmBY6+oMi/GdYgTANCwW56NLncqFsBqJxfHw/ughtXarItywwigT75abCQ+tBIPDPbJQ6DDDRDSMKRvZP0LX4q0u4aSP+kPfONoOuXL1nPPJBLTEbVdI4oIIfaidf6ZpHD/48uRH4b08PNIS9XUm3EVBs7rF7fZ9beD4L86NI2/HENsSC0HKoUrU57KIIyfw3Xd2ri+sfhFCttD2tr7bYeI2/K6shiDPRWIe5JwtDyAY5Utn7QSCNBMI7DpNFUbProDXEFmUlpgrJdnNr2CAuZ7PAX6doblabYlSOOMddDbF+ohmSWZJGObJ4GOyC1yuEoECopZQ8zkPhPFJSoDnzu8Pc6ajQYDTZUNbLqFk9PW3Wa0gvl2qRJLCbwv+IlcVhWn/uWR4Isru+BnIWLV7GsJTCwBSZu/usSQE9OnG7nQ9nQUBf/G"
 }
