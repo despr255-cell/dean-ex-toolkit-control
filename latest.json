@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.47",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.47/Dean_ExToolkit_v1.9.47_UPDATE.zip",
-    "sha256": "ae938002ba4e49491cb8343dd515a2290809656dd10ca19e05df8593af87f535",
-    "notes": "Added a Windows BAT installer. Existing plugin functionality and license system are preserved."
+    "version": "1.9.48",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.48/Dean_ExToolkit_v1.9.48_UPDATE.zip",
+    "sha256": "e3ad7e120a7ef9db5159d768bcd1b01746648997715d3111083b97b2d42062fb",
+    "notes": "Added Emoji tab with Coming soon...; preserved existing features."
   },
-  "signature": "hUDchfPtlWzicUf1x/JhqSkEtPGdW1jlzfX1+4PFtZSQfb6IDLDOHDCcL+feXqnQq0HCVZyO5DgctH650s7EawI4eQutejp/wrZznKPukk2b9MGSjWtm3cnvcM9WcdsGitWCROO7cQQQcpELOfMH7ycW9t2PO8Fi1gp4prPLTDL7vCnH8LTmQnkNeCTuVfzAU5esKNI41WgHNlzFQxac6oXxKNC5E0VX2QpVo9FnkwEuaxu/9tMhvpIrWwGVlBj15EkpLtaIdrNoKj0BmMXzywJtImJT5XRxMP6hGGut28/5JiwPX8PgY4KLpdqtZg108MQE6YG/hJc8Xc6elVBo3ClGjb7l24wN1xKmxt1VszYSWWHI6nl2TyX23PB9ZU27JJxGp0dCO7ZCSraN0p2kwtYuwSK8stKb2aUMvestWy1oCntyiE4uvBrwQ2eyTYlsNCHBMZYVLJ+fktTmTHdrgO05dQ/0s26d95O7RtYHLd/v9j1e22kle9H7tvUWRc26"
+  "signature": "Lk1Gg8Sg5M/fgwpQK2mlfVhmS3h0Q6+0qLIIq5Zj6wVQwIe8wxQbnOBhlk1wHk7ozYG/Crc0ZrFnjvixUcShFKm03Z4IBPq3H+qtMHdoOaZz76lcJrqNI/lPnw4kIDKS0bh990pLlyT/KeFDU1WUXBZi8PDWBxubG/hNz530iuqhc8HDsfVUuu1O/VHHIJyEwgR5tyJXjqxILLiBY0wMKRrK+nVrr0IXDWU1qj9WCeqrud3P6PudqvvjAIRvtop82pTXVdMy0YxIjBoC0swlLiUz1WqTTt9aeXckRHxuDhH03SW3/YQVUkEujYK7hMQkskJKeZ0vJvuYfplCyUuqKf1rpH+atFjidPcRAZDwpx5PMabQoKzt4tBOU+3eYmqpDpvUkPkOjXZ4d9+AOnLZBjZkT3F+AuILHz4xzoNgJma9UNfGgIrMEHczAuS7DaaK49lCQ/MmIWi84fgkQuRjbdcRylYs3yWyHcTznxDlQ7fUeNsmBk492AxYRo8OWvzB"
 }
