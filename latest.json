@@ -1,4 +1,7 @@
 {
+  "version": "1.9.39",
+  "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/v1.9.39/Dean_ExToolkit_v1.9.39_PROTECTED.zip",
+  "notes": "Signed update manifest and SHA-256 verified updater. Existing RSA license system preserved.",
   "release": {
     "version": "1.9.39",
     "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/v1.9.39/Dean_ExToolkit_v1.9.39_PROTECTED.zip",
