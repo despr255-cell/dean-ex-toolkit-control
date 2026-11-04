@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.44",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.44/Dean_ExToolkit_v1.9.44_STYLE_ADJUSTMENTS_UPDATER_FIXED.zip",
-    "sha256": "5c8f11a552224e701a7a13bb1dcbe3055152e8c2a5bb320b9a763d95b82163e9",
-    "notes": "Collapsed STYLE ADJUSTMENTS by default in Spinbetter and Coldbet; repaired CEP PowerShell updater launch."
+    "version": "1.9.45",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.45/Dean_ExToolkit_v1.9.45_GIF_COMING_SOON.zip",
+    "sha256": "90e04edcab94ef9d96c2fbd0aded6b7e1e56dfed2e7e5280cdb53579e906025f",
+    "notes": "Added a GIF section with a Coming soon.. placeholder."
   },
-  "signature": "BiCKPTursPxRiyX9YxvapnL4ZCJY59VrPU3qyZBCJIvkGsC4XztEUwIgQ4ftWfbYlmrS97XuuACoYPGMPDvtblAfia9koYVEtlyvzxXsnnS09+JZQzaC4v0xyDK8anJEf2WQxlWheZHy1Wdpt3wP3kh9LKEmP9bKeUGyEtwRSLj4FlxSwlsvAMEizqrbLVT2NaPCOrIpW0cy+F0lkWswd6f/YRh176dwZqfK3D+lV+m29sFBLotPodQsTzIf3HfZc2pGHrzFE+RZjjz+Sv2K8q7kOaUMiDoVxIPBbmJUPWJ+Uil+/vS/wxK/qAFLE42mv88M5a4Ak/Gox3jGzFlGJF7u1NkJ/j8MUNt/tm+Dfni5AxxriBcSzG8cCdzPhnf0zcQ97XhyAazYjja+xCrD+ZnP/3N92+vnyCIKZtFyZxWWIoKHYiMRzpDMZgHIG0UWpgq9Gu6lUZS06JROFm6waiPxVGwIbKdIa5bFMsDZRoGgalyDvSRlC26to8R54TGq"
+  "signature": "QPP8UAzmK76RDBpl+IMH12zFLcePUS2DcJ7+rNHf9XGnZU068xgx2B8wt81t0Ga+xMNYPiS5nlBFywAp/gv3OsWec7SgaEp2Qh6JAidYTrSJT2NEvnpQ5NjLaRbwGrdOVDYe6U/vQ+XxBzO0pbwToIP+cmN/NyLtaW/Qy0/h08J6uO6A+tBwDRldxQpdhU7XMAEBCeQhfojOefMAvGU5VBF98eDJ2dln5rmEHhWy/iQ+5W66w15qVmWxBre1seqmuMAtb0IN5BUq73IPtht0cNWHlSrrlAPkdv+MIjf1ZZjmXx6jUkTo3pQ4eoMwftCSSRWxQ4t66NsY7oEyUgCUrNMBIvusonGUh1ROk610D1/nlDmFKn6S+jM43JEa18NgTW8IofBZaeohO8dAh7t36t/4GbTNfcnOQ1XDgGhuIGBz2ps/q+zl5ydmtFHhSHLG2g6ffxUeFNXPZTDuFnWVxOpetl3U6ryGBWjvVRg2hlr6+skBZAdgghFO3UXZEMIc"
 }
