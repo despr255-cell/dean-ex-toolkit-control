@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.41",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/v1.9.41/Dean_ExToolkit_v1.9.41_COLOR_TUNE.zip",
-    "sha256": "815248ecdf62f8176d97b690fe85e95212586c4c40b2fb2a5a40678757408b5c",
-    "notes": "Spinbetter and Coldbet tab brand tint increased from 10% to 17%. Update progress retained."
+    "version": "1.9.42",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/v1.9.42/Dean_ExToolkit_v1.9.42_UPDATER_FIX.zip",
+    "sha256": "2aed38b48e9f28a94ff606f4ab867f4051dd1eab8afac5ed7c73c53b89399860",
+    "notes": "Fix updater launch and progress reporting; preserve existing license and settings."
   },
-  "signature": "ActnExqqtD0uq/EMPrN+toOPiQZ8dTZuDW/RZHKJXe3qDLbRo5CtZW6pBuCLJhLzNGUDfvV1FnzqATgalJI5xXXgDinSj3KHv9YwAbMkrFu4L0hsxgeYdo8+xUeCgLXrBBUhGCr7v58XThfEmWtBVteo2YlYXLBGwg+/NS6sGovKn+mJQmc5Mbz+onzfpgmfogf6lXizcGINWwETfaWAR+KkXOuFcOkVDBzSUnY6XfDbEvogPUbYcJoHq656/ZHE4wfoaA/oEGs+aomN8uLZy8torFcR59eWjceaWHh8fCotHR5gHX0J+BFqwwq4mNUP27ECcu4CCcd6jiRTUfMdxIR/dkMiUDOaoH50/0Gt1vrcOHqMVR9aaMJsHDo2mee7w8OfatbV1SU2bu+bch6jZTw8HEdGyxbIVtViVOsiQHeIZrLI+PIuD10/WbB8Aq4sFocwwawrPePjVnz0DMXvV1cDVCnjNbmRMgzu3j9la0m6ztwzwsTjZErYT3CLg/0h"
+  "signature": "JDxTx1DnKYGbxFfNiZCZGKhMwxQSnyjWUFDCd3cZ/U4FIFOw3hmxcs+cu/sX8oVQcANlHFtnMn36io4raoxSiRirYVeWQMtwJ9OjwDdkLE0xCXAcW0O4y4WiIRWxm48LMHKGdWqiBZ27qTvzNgl7U4gq0CZorl4jvk14Zu3eOQZDqCxbx1r9Ub0UAM0eORAsjl1LgVJ27y4jIjJShKeHvut8G57xT4Orax4U8sjUBi1ux0utLqmaPmN72Qion7NBVQf+hzhMi9mMh33mHVahApkQKe32+P/HkRBNJXIwp/mYQWcAyvcqtSJGaGcODnjciC9iFA33wpdfwlCwRLVpazXDCm1Nu4DUW0oqL4bxaPLJaE0whFXFgoBYX/pZCAr8bXi86VgVACE2R5AT9WEQoB0CtrIEPwSALgth+Svo4T9s5EnFCbfTuY/rG5kXXueO3TWauW1vuUke1t/RZugi0+1lhmGIcQAsm1185lBBAzqzg+bah7B99E4M8N06LguK"
 }
