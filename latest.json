@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.60",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.60/Dean_ExToolkit_v1.9.60_UPDATE.zip",
-    "sha256": "8bcfae17fa5c5c7e9b242f7117571486256ca5811768aeec3bc7c7dd63822283",
-    "notes": "Fixes Glow Green preset application by explicitly targeting each layer before applying its FFX and verifying that Layer Styles were populated on both MAIN and SHADOW."
+    "version": "1.9.61",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.61/Dean_ExToolkit_v1.9.61_UPDATE.zip",
+    "sha256": "510a5a237d40de6ca11f5cc7624eac1f07c21d73f976660c1cec4834b34104c8",
+    "notes": "Adds the Coldbet Blue Bonus composite MAIN/STROKE preset with live-linked text and retained FFX mask; adds transparent hover preview; matches Glow Green button styling and size to Spin It in a single row."
   },
-  "signature": "P9JibaYgOW6DHLFLRO84honnc+b70YLqww/y6BQu2BKBWK7Mj+lWVBJ370jBGfKyk83YU9RUISLG/KcKqgkpok+0eGVUEtfyDxsc4BoJPERH/gpzTuZG98dfH3wXYG4pXQ/o2jfZYTyQnUKPXft3hHMepskVHOgSlBs946Ox+Xv8WDwhCTJBaF824DFVPk1ziCIKyBimcTInK4iz3v1NQmpEnpBNmgQehE8npJWO/Z5rc6QvQ2eEBY1AvVevg7z0IqalP25DzNcPj3Kxq0kJD/cNhIUxcLBQIuVoGrwVPN8sQs6bAJmVwLwr+psP7HN57vtbNfm16/axmxtdQVuI+TD53n9z5ywE3xcM9wjd3Q3cvwmjDgrS5iad7ZpE9+jWEVQ5sK95RkMXOg89ytvZxL0wrsQ1YgLLcJsssq0bKbAcREgdj0b+/zT0lmpVwsORm5UdL2LBkl8bpiWF2M4xN7b/ibH8SNsX+EFpFU68IJ8lSg+aBalNitIjWQDQ4+LH"
+  "signature": "aqdxKA6aUMOa16Wg3hHJWKlHusq1xPyE3ygBmQurRI7rjXsbSQexh425gsiH3ctZfxgwkmDxhkgxqLQEKqFIZDTRLUlHY33iPpuqPoa3SITNV95n56H86bm2AEL6TNcjKCpa73ZToFi+t5zQmx8N4dSpuoZPxAQ0dji+kS3H/l7PRMS7izMH6BwnSqLOr6mGXK2YHCJuZJD5jHa+8YL4Ctx3aBLJzjL6u0jcK5dXZqMpSMxJgFPYiih08+H1pgOOH2Gq0f0ZVpgVOMwaaj97mLtnTwypfwJBibZwO/wUFhxS14Btr4IO2zBzSTKO4JWBaVOW/D7FMo0FoLiIHkv4CX7YeYqe/g5f1vFxRioIqzV1yuujmpEYwO8qh0E4fZY1n6jlpgQuo1Gubquq4Wm2rgs2r8eck6pceGVqvjkaUhU6pe+6ix62t5UBAjOd+BLO2PWtGUxnyCWVqUffhVp6NwDPmSdmshLvyEfG/VMuFw9L1n1AzeWLUTuldjaoNjiG"
 }
