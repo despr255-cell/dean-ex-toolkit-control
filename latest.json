@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.61",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.61/Dean_ExToolkit_v1.9.61_UPDATE.zip",
-    "sha256": "510a5a237d40de6ca11f5cc7624eac1f07c21d73f976660c1cec4834b34104c8",
-    "notes": "Adds the Coldbet Blue Bonus composite MAIN/STROKE preset with live-linked text and retained FFX mask; adds transparent hover preview; matches Glow Green button styling and size to Spin It in a single row."
+    "version": "1.9.62",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.62/Dean_ExToolkit_v1.9.62_UPDATE.zip",
+    "sha256": "176db92b876ec585635afd14ab3256fd46144e61336eb30feb536745f400189b",
+    "notes": "Blue Bonus: STROKE is above MAIN, retains the FFX-authored displacement and transparency mask, and uses Rubik Black. Glow Green: Futura PT Book (regular upright face), removes text scale animators and matches Spin It button styling. Spinbetter hover preview switches between Spin It and Glow Green."
   },
-  "signature": "aqdxKA6aUMOa16Wg3hHJWKlHusq1xPyE3ygBmQurRI7rjXsbSQexh425gsiH3ctZfxgwkmDxhkgxqLQEKqFIZDTRLUlHY33iPpuqPoa3SITNV95n56H86bm2AEL6TNcjKCpa73ZToFi+t5zQmx8N4dSpuoZPxAQ0dji+kS3H/l7PRMS7izMH6BwnSqLOr6mGXK2YHCJuZJD5jHa+8YL4Ctx3aBLJzjL6u0jcK5dXZqMpSMxJgFPYiih08+H1pgOOH2Gq0f0ZVpgVOMwaaj97mLtnTwypfwJBibZwO/wUFhxS14Btr4IO2zBzSTKO4JWBaVOW/D7FMo0FoLiIHkv4CX7YeYqe/g5f1vFxRioIqzV1yuujmpEYwO8qh0E4fZY1n6jlpgQuo1Gubquq4Wm2rgs2r8eck6pceGVqvjkaUhU6pe+6ix62t5UBAjOd+BLO2PWtGUxnyCWVqUffhVp6NwDPmSdmshLvyEfG/VMuFw9L1n1AzeWLUTuldjaoNjiG"
+  "signature": "MHxvr8zKlXV+50chHOIatqmMA49F2H/pjgZ/avXIKzylS7GbLTNtlzrVx+jxbAHg9xoAjhXAJ2h52K50ty7zk7kypa7iPeu4susRsi2bXf9yuh1vUE3hFdIrAXaubL6UhPUggLi0dIXDUMq0gMIAT3qgY/AJiZrEAFiohoX8RRlT1AA+/+H7EP9Bk6T4Khzh5dz2Zd/g1riV00vwlD/OXPNcMd4ka30YuYYBeb9hSVZ5MTbP+FFFxTT6jMtSO+IU76Aze0vkpdogI/7j+ZfbHsDuL4QOgZSzaG9RuB0DrnWyRXOubLI0Uy2wODkD4VCdwc5XAhqx/iEUBC2eL8VN2TmNIju49bx6/AosqFPcRYFOBJtDxsXouTVgG5F00aZVRxl+hGd3BHHfqovMaurq6F1HkyHaAA/oU4AYrd87nebWn2i62o0EXyvHuNcQU+l5/Wi2fFavM04AZbtxs5Krw8Y3ZkPkyARcNEFdqfvlcHhMrDcYHZICIkpozDxiZ0gx"
 }
