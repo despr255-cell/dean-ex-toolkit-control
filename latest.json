@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.50",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.50/Dean_ExToolkit_v1.9.50_UPDATE.zip",
-    "sha256": "f98e21a36d116f8b9f07ee95c20d256b461531bb88d4b4292a569549d43d0e1a",
-    "notes": "GitHub updater download hardened: retries, longer timeouts, and curl fallback. Includes five transparent FFX previews and 30-minute license recheck."
+    "version": "1.9.51",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.51/Dean_ExToolkit_v1.9.51_UPDATE.zip",
+    "sha256": "6b9bdea0a3180cee29dcdc4d8b7f9357bc007fa806fa4443de8c0234814c94e2",
+    "notes": "Fixed preview layout: persistent in-flow preview boxes above Spinbetter and Coldbet preset buttons; Coldbet preview switches on hover/focus/click. Includes retrying updater from v1.9.50."
   },
-  "signature": "kNsZQlFP1JSCKsHwXOA3iAOwLZLPdKWCwnU8IBFN7qhcNKH6vo7cPKC+v5NqHW0JL6mwJDtBb1Ez86Ay1oTTpj+AGya6DgNkt7KQplrpbk3dQenS8mXuXGrvb+mZx72Gil7bJIbyjfUktY5OSBoJWmI4P+ZZG0lPqNVqTomfpB98hzD5yAKYIXUH0OgBY0mHI/+9+ZUrnYdV4WzNweCCQyEHSIP5DNjrqHyqcRA3Iw6fmjRII1Lrk/5vCXk6/IpT4k8kXnwFBSri35PaApKU5O2VmtjBC4V/9nDbxHvl7fn0eH8rvcXpHwl5McyyhKxvWNSZLPRL8E1/UMyFUYGJiDIirwZX5Bm0XOMBJp4Pzc6hsCAh3MMiNpCwpXs/MWInWBqFj98qzIJpS4mFPPT2X0FUvnJ+0f/uc/KdU/1zr/BV80Ge192UoGj+FF9P4CFmdo9iwK/pTjtGz+iABSejMk+yRSS3DvSjVdJTw2wUAGXkTsxMmIX7TABpSe9QUc6f"
+  "signature": "kvoTTauwMAqY8ijev23hmp6RSGGX5drZiM6nPMmuVDG3Ey6Cwf3QoArdiy+B+9d2Cru7PPBXPplCWf3PxxgBdBPZnYkTLt+7erCg1rmdhxbuasWaxGduA36laVUzAkCYPmaAgST1JPiHhIOoKpm4k5gkVMW5GNnjQVPE/w+QfCvKRSdPZU+tMzlhWNjl4IcD8UVcjNanILXU8M4JbBOA6Ker0OIZVBhV5qSu6zXnAfQcvNgQKFAW4A8uhEgvc2KutZBqTmXSVsKvif6yG8yYBQToNc/BFUzFY3jjeOqjsNSJ/q+ZQcQDjwPPEBPyRCw3Mq6PdoSlyUGsbMYRdGhTV1buE6picgaXhibxMmkY7f9JTFe+vJ7Bw8lOwoaPP3eZu1Tx5t3a9M9H46MPSqPQ+twPbwGWKQ35YrXCzWqf7QpaqCI5TSefvD7FCVuLVFx2/+x8IIRaKJ0oVXqNhxf6gjNWXiRLZ1QdewLJinSjBXLPmcjxmFbQwRfxYY6Ysb5C"
 }
