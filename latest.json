@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.48",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.48/Dean_ExToolkit_v1.9.48_UPDATE.zip",
-    "sha256": "e3ad7e120a7ef9db5159d768bcd1b01746648997715d3111083b97b2d42062fb",
-    "notes": "Added Emoji tab with Coming soon...; preserved existing features."
+    "version": "1.9.49",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.49/Dean_ExToolkit_v1.9.49_UPDATE.zip",
+    "sha256": "c8386942a133f71162da4047a566aef9da5e731bf9451f3ef6dbc06bd55efa9e",
+    "notes": "Exact transparent FFX preset hover previews; remote license recheck every 30 minutes."
   },
-  "signature": "Lk1Gg8Sg5M/fgwpQK2mlfVhmS3h0Q6+0qLIIq5Zj6wVQwIe8wxQbnOBhlk1wHk7ozYG/Crc0ZrFnjvixUcShFKm03Z4IBPq3H+qtMHdoOaZz76lcJrqNI/lPnw4kIDKS0bh990pLlyT/KeFDU1WUXBZi8PDWBxubG/hNz530iuqhc8HDsfVUuu1O/VHHIJyEwgR5tyJXjqxILLiBY0wMKRrK+nVrr0IXDWU1qj9WCeqrud3P6PudqvvjAIRvtop82pTXVdMy0YxIjBoC0swlLiUz1WqTTt9aeXckRHxuDhH03SW3/YQVUkEujYK7hMQkskJKeZ0vJvuYfplCyUuqKf1rpH+atFjidPcRAZDwpx5PMabQoKzt4tBOU+3eYmqpDpvUkPkOjXZ4d9+AOnLZBjZkT3F+AuILHz4xzoNgJma9UNfGgIrMEHczAuS7DaaK49lCQ/MmIWi84fgkQuRjbdcRylYs3yWyHcTznxDlQ7fUeNsmBk492AxYRo8OWvzB"
+  "signature": "cHzDbpoldQ+sWmAL3yuE72DIkhi/CNhcwXZLDuyOpOB+Dz8EhWY8wqpWQWnCJI7P3KZ4fi8AdkrUzNhYgAKQ/+6ImvFO2NYG4+MFb3C1aLtOZMDIFNkIWvce0R5BfpogTrYgiZ14x89IsaQEJFfqO/3ICyaYeRG9GpEIinpeyvVu17n2XVKPJEi04KHYUn5WZ9q3yB05pxFA/9Sax7m6E5PN3wmSr/MwahX0RJmvvKQjUxf2hvEkOKjptZnBKCc5fzc0JjJErqXS+/xI83kQkj9bxc5i4/4A1Rz/DwgWECZMkD0qAyerbSzuzNCCfMqRyZ75jvjYDjLkk5Ie20yWORxRE2SiA5Pzxsq/2vMTAyzD8VppcqOmHM4yM67flPDONgtdBuuldXivaPySiKUl5KGQQ1wWm6u4HER1Dkmy3eGxdRMVt6rG+hBYH6HlFsOqOzBTGlUMlO/uCVgnBqoZ41wPjc4yWpZ1zYYXAAPfo/kHvv/g8gbbWL040572WTLT"
 }
