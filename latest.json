@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.57",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.57/Dean_ExToolkit_v1.9.57_UPDATE.zip",
-    "sha256": "3489308c34e0fee86a6ff8633888bba494acd2405acc93ee0a3b84c613aa2ad9",
-    "notes": "RESET verification no longer mistakes the persistent Layer Styles container for active styles; reset returns preset green/blue character fill to neutral white."
+    "version": "1.9.58",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.58/Dean_ExToolkit_v1.9.58_UPDATE.zip",
+    "sha256": "bdd39a808d4f0ea3c10b72d137162904d4d8895bfb2523d2505dfa8a208e6bf8",
+    "notes": "Restores AE activation and composition focus before native Edit > Clear; avoids false-positive Layer Styles container checks; normalizes preset text fill to neutral white."
   },
-  "signature": "usZPBUuzTchND3H87Dz9duvsEYUXt96fJDRo6TAsOxU5tgP2ET7r1STtSbe97lRYiS4HPQG5BIz42xhEqeIg/0nKsZRhod8mw5DvVSRtM6lSP0/MPkjw7fLYGsmxEIk26Z5b+3YzwbXyiqfgagcAGgZbGk/yGtwmHHLoO9q+x6XhHyAmMS0nz5hfGb0BIU/DGDcfnBSVrZHZjuKLiP17GOw9Dq5phNon0AIWgxX5ujMOrTh90Gzo3ScNQtoOPsUdno1tKg6R36ybpSFhy0yrquBDJ/oO820N5He6Vt+64Se2fEa6H/sC7EN0fYEbYUwGxt/94G6dHUFgBxdvWU920QQQPjvpslVF3oar0WEtnXchwUr+3ekNDPnlz/EH5hv2mcG0AAyF04uLhJQCZ1eq4vtU6FuB2KNod64fGTp8AMgIGCMeG75Yb4FsALV0ib2U1eZrulY0wG2b0qnIAed/yI+h2oU8QkdAXd8+6QrlPgQTrmv3vHvtxFi//0SxKZrn"
+  "signature": "OncL2lJaRwwyLFj1pGmFXR2eX8ygds2mvSUVhWQaawiJc0HBNde0Q8b4Dy0pupcWN+DSLCLFE1RbAugT8Qh4VKhKGvQhOd2+lQhW3fEZFaURZWu9ZXOCiM/MtgwP7TyHmu56d1QqsK2MhW0QMPGDTJtnQdZ/coq+bQ4aDM1spqEwVDLV+VTQ1ZAgRe2DkMBgh/QHlJNMcuHx9vydKhtuKdhna6fhMMV7QCIP7CcQavpBMXzWceP5+Y2OOEiRjv4dRu9xApGpcw2kLVKpfRrWfUROsZhzIfrLLuObGiC3ON9H2SNWl0rJ5DXDI4tRZkGbVMdxJVUySdolblq6RQcqm1GNUE3AWo6fIkGrRNzj8JTi4Wm8ZYrSLRR79j9JRMV31KlS96x78pHMmZg9D3XTTe9VbIjKw3V0+Z3o2PnZLohTclSyOhsQkcOnsgeWD6h3/brMtIbXD2i98LVvpwuyYL89ZGy2obasjxx0qpeifsvlD656+no/wDKaZAd856ol"
 }
