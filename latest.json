@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.53",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.53/Dean_ExToolkit_v1.9.53_UPDATE.zip",
-    "sha256": "737c78eb81911b64a80d1318d6ea9e575c2d5717982b8ffddb035afeda73ca02",
-    "notes": "Reset in Spinbetter and Coldbet now removes individual Layer Style effect groups instead of disabling them. Blending Options and text/transforms/animation are preserved. GitHub API asset download path from v1.9.52 retained."
+    "version": "1.9.54",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.54/Dean_ExToolkit_v1.9.54_UPDATE.zip",
+    "sha256": "4279c3cf82918de25bf4ee817bed5b66abcd8afff15a3e2874caa5eca3f4dbd6",
+    "notes": "Reset now invokes After Effects native Layer > Layer Styles > Remove All command on selected text layers. Non-text selection is temporarily excluded and original selection is restored. GitHub API asset download retained."
   },
-  "signature": "uYEYRPdH4t4Ke8ZBNSodLG+7dhRQh097mzkHK3DCrdzf2K5HUz2bDeTmDximC/hZTlONxgfwT6DMj5tnELUiJdeSiVGQmV4y9u1uKj/fXYzZ9QkRrWWDy/x/r/OSNS5tXXhOkVRWYsRC2lR24u35dhEf2j1jncTI2/RoV5gwsxiXUIBS7XnIsuUfvjlnXzqqrpNSeN+IFGSZy65iWdYktlvJNcrW+RBWQ20rchvQzndP1yD4dfKfmHJGzw/cPRvsAGgZwWIidQBvzyJYwUK0olnP/z3Jw+jSqfHmToM9Mdnq0w4TIXmpOB6AGWqW81QxbQq1LORtDNDtLWmZllWLiiBZ+7eNV/JlvIJcp6lN5IuVAZgV8SVwcW6swlEy1gWO6HDrc9Kt/bgeVNEdNz32fAEgvKGZ9aWXpZI/fhyGq4IvBUtG0s6pAE4cyeQkminyYzGbeg89SGNBr8asNillNOZeQKMt99XwLX2GWSBt7W7ddxZEhKaOsCfTGpsVYxTl"
+  "signature": "ny2UVNAMArObOqV0qJaisbeD1U+DNvCjhojKW/q3zZfgAGS70S5+0a6nWDkf+2d7vG8yzCzAXOJsYAJVGVuBgLyNixM391WQjEezJMhAf8TbAabZHgx1I2tzRRoX8D+b7DpcFp2/YzI4qYip+ThTJetPnkBsZeuwmkAO5MbiapnS/51xxH8PsAX46gcQI4d7YdPHnWPD7v9YfoSLZh/U3kJ7Usqc/Qbk+TSpcB3GeyxmP/TpdAInMY/nN/6SJnT0nBHGTq2slDy3HtfmInKHtafm4bKle3WRm+X6+Lrj2svQxEqt28/OiggvzNE42CPeoH/UI31sizYdv2ggZhSfCxv2RySLR3t4CQaDDuNO8+O0YWxQ4FeuljGNVuM2gPL/p42vT/mnkd6ZdMBfPzv09Lqdlt+S8L2rabqXD91EY8Ox04TqUUVDc88IsFPR+MwfSTTLZ4XaGjkpx9azdawd7gKJzp0DPKq47jugQ6W340Hft3bNrlAETPGga3iFnatl"
 }
