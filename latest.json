@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.54",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.54/Dean_ExToolkit_v1.9.54_UPDATE.zip",
-    "sha256": "4279c3cf82918de25bf4ee817bed5b66abcd8afff15a3e2874caa5eca3f4dbd6",
-    "notes": "Reset now invokes After Effects native Layer > Layer Styles > Remove All command on selected text layers. Non-text selection is temporarily excluded and original selection is restored. GitHub API asset download retained."
+    "version": "1.9.55",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.55/Dean_ExToolkit_v1.9.55_UPDATE.zip",
+    "sha256": "eacab70e9a1012497394fd92adf60914413a498d7a309979bba608345c86a853",
+    "notes": "Fixed RESET in Spinbetter and Coldbet panels: selects the ADBE Layer Styles group and invokes After Effects Edit > Clear."
   },
-  "signature": "ny2UVNAMArObOqV0qJaisbeD1U+DNvCjhojKW/q3zZfgAGS70S5+0a6nWDkf+2d7vG8yzCzAXOJsYAJVGVuBgLyNixM391WQjEezJMhAf8TbAabZHgx1I2tzRRoX8D+b7DpcFp2/YzI4qYip+ThTJetPnkBsZeuwmkAO5MbiapnS/51xxH8PsAX46gcQI4d7YdPHnWPD7v9YfoSLZh/U3kJ7Usqc/Qbk+TSpcB3GeyxmP/TpdAInMY/nN/6SJnT0nBHGTq2slDy3HtfmInKHtafm4bKle3WRm+X6+Lrj2svQxEqt28/OiggvzNE42CPeoH/UI31sizYdv2ggZhSfCxv2RySLR3t4CQaDDuNO8+O0YWxQ4FeuljGNVuM2gPL/p42vT/mnkd6ZdMBfPzv09Lqdlt+S8L2rabqXD91EY8Ox04TqUUVDc88IsFPR+MwfSTTLZ4XaGjkpx9azdawd7gKJzp0DPKq47jugQ6W340Hft3bNrlAETPGga3iFnatl"
+  "signature": "nnuloWgNnDZ4fGf6yWkNja4WxnPACu0gKv46yQ4EHNzedJxx5uaSd05+d54TBjjLopHuVhurqClp7VETaxynkcsWYIuxhrNFt9z0oI6rJ0DrM7xnQhxtT8p6+adhEbDxT1RnqkD0qlN6NFS+oIGEBbGAmzGWS07lQjatp03AdXrUNWS7S0334QtMQ06A30gzcAaySC/qkLigHNAVuhzytrYOX8peP4iT+esI37/kMZuyiwkN9yxq55uTQPrTqhYk6Fq0xBZibQ1cojP2B8fh6XqufIDoSGeUgorLJ5Mq91SHx51LnamjT+GwksmIbSD5FDkV38s+YP9JwSzy+5qVVPiY7dWbMbgFrXxEyqxfyZ/UeKUKsaimQlsV95Du7WFiq3zv0uqKDqds6J3WexJHJmG+i63HYq/XJzFVuSPTzkS0W3j2ch/jILsBiKIaZJamnquTuCYAS2Yzrt2j+rJGTPbn37X46R67VX4Cr71sVAOCliWmRpxFmVafp1pXW394"
 }
