@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.49",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.49/Dean_ExToolkit_v1.9.49_UPDATE.zip",
-    "sha256": "c8386942a133f71162da4047a566aef9da5e731bf9451f3ef6dbc06bd55efa9e",
-    "notes": "Exact transparent FFX preset hover previews; remote license recheck every 30 minutes."
+    "version": "1.9.50",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.50/Dean_ExToolkit_v1.9.50_UPDATE.zip",
+    "sha256": "f98e21a36d116f8b9f07ee95c20d256b461531bb88d4b4292a569549d43d0e1a",
+    "notes": "GitHub updater download hardened: retries, longer timeouts, and curl fallback. Includes five transparent FFX previews and 30-minute license recheck."
   },
-  "signature": "cHzDbpoldQ+sWmAL3yuE72DIkhi/CNhcwXZLDuyOpOB+Dz8EhWY8wqpWQWnCJI7P3KZ4fi8AdkrUzNhYgAKQ/+6ImvFO2NYG4+MFb3C1aLtOZMDIFNkIWvce0R5BfpogTrYgiZ14x89IsaQEJFfqO/3ICyaYeRG9GpEIinpeyvVu17n2XVKPJEi04KHYUn5WZ9q3yB05pxFA/9Sax7m6E5PN3wmSr/MwahX0RJmvvKQjUxf2hvEkOKjptZnBKCc5fzc0JjJErqXS+/xI83kQkj9bxc5i4/4A1Rz/DwgWECZMkD0qAyerbSzuzNCCfMqRyZ75jvjYDjLkk5Ie20yWORxRE2SiA5Pzxsq/2vMTAyzD8VppcqOmHM4yM67flPDONgtdBuuldXivaPySiKUl5KGQQ1wWm6u4HER1Dkmy3eGxdRMVt6rG+hBYH6HlFsOqOzBTGlUMlO/uCVgnBqoZ41wPjc4yWpZ1zYYXAAPfo/kHvv/g8gbbWL040572WTLT"
+  "signature": "kNsZQlFP1JSCKsHwXOA3iAOwLZLPdKWCwnU8IBFN7qhcNKH6vo7cPKC+v5NqHW0JL6mwJDtBb1Ez86Ay1oTTpj+AGya6DgNkt7KQplrpbk3dQenS8mXuXGrvb+mZx72Gil7bJIbyjfUktY5OSBoJWmI4P+ZZG0lPqNVqTomfpB98hzD5yAKYIXUH0OgBY0mHI/+9+ZUrnYdV4WzNweCCQyEHSIP5DNjrqHyqcRA3Iw6fmjRII1Lrk/5vCXk6/IpT4k8kXnwFBSri35PaApKU5O2VmtjBC4V/9nDbxHvl7fn0eH8rvcXpHwl5McyyhKxvWNSZLPRL8E1/UMyFUYGJiDIirwZX5Bm0XOMBJp4Pzc6hsCAh3MMiNpCwpXs/MWInWBqFj98qzIJpS4mFPPT2X0FUvnJ+0f/uc/KdU/1zr/BV80Ge192UoGj+FF9P4CFmdo9iwK/pTjtGz+iABSejMk+yRSS3DvSjVdJTw2wUAGXkTsxMmIX7TABpSe9QUc6f"
 }
