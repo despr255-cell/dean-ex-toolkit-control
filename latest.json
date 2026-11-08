@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.51",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.51/Dean_ExToolkit_v1.9.51_UPDATE.zip",
-    "sha256": "6b9bdea0a3180cee29dcdc4d8b7f9357bc007fa806fa4443de8c0234814c94e2",
-    "notes": "Fixed preview layout: persistent in-flow preview boxes above Spinbetter and Coldbet preset buttons; Coldbet preview switches on hover/focus/click. Includes retrying updater from v1.9.50."
+    "version": "1.9.52",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.52/Dean_ExToolkit_v1.9.52_UPDATE.zip",
+    "sha256": "ce91baddfc261683c4ccff6b5b4b6e38c6cd0e57b040de3f27adb691187a5eb9",
+    "notes": "Updater resolves release asset through GitHub API and downloads via API asset endpoint, avoiding failing /releases/download route. Retains persistent preset preview panels, five transparent previews, 30-minute license recheck, SHA-256 verification and RSA-signed manifest."
   },
-  "signature": "kvoTTauwMAqY8ijev23hmp6RSGGX5drZiM6nPMmuVDG3Ey6Cwf3QoArdiy+B+9d2Cru7PPBXPplCWf3PxxgBdBPZnYkTLt+7erCg1rmdhxbuasWaxGduA36laVUzAkCYPmaAgST1JPiHhIOoKpm4k5gkVMW5GNnjQVPE/w+QfCvKRSdPZU+tMzlhWNjl4IcD8UVcjNanILXU8M4JbBOA6Ker0OIZVBhV5qSu6zXnAfQcvNgQKFAW4A8uhEgvc2KutZBqTmXSVsKvif6yG8yYBQToNc/BFUzFY3jjeOqjsNSJ/q+ZQcQDjwPPEBPyRCw3Mq6PdoSlyUGsbMYRdGhTV1buE6picgaXhibxMmkY7f9JTFe+vJ7Bw8lOwoaPP3eZu1Tx5t3a9M9H46MPSqPQ+twPbwGWKQ35YrXCzWqf7QpaqCI5TSefvD7FCVuLVFx2/+x8IIRaKJ0oVXqNhxf6gjNWXiRLZ1QdewLJinSjBXLPmcjxmFbQwRfxYY6Ysb5C"
+  "signature": "m2DBYPtD8ABOuM6zsDDpKnd2p63hfic8m+ds6Tte1duKQKbHBkZwUGBBF3yDl8HBOcajVfHWte1m2mrI/w0+p8C2KMqovWSC8+67VUt8wwNZnAm4tNz+5YiWOiOsuC8QszbZFySvLb1DkHJvT7muCoOO/Dv/v0xs6bpvKPB5ESrwOHfCqO/PAMOOWJVkAZJW6RuSuAB3vhctC6bpSzlmRWlJefPYXSniUIrOwO6+a/yk1Nrb2jPWajlwYIPvWlliVOF3GPcMuSytyc3K+CMLglzjk3mHB0sYt9BpENOEhzUF4+U4Fbus7+ygwI4rGDcLlYsYTMmxdmYN7aLyuCaYOAX+nUg0GpCeE1Gjdnyyx0EEEjIYs4+vzLFG2vDeqNP4cqX0oVUhg3qTRSPlrbfp7yhko/xVALAg28uBjdnYqj2CSc5fH1Sep6VUzpWtgqTjKVSXATJPMRnMVtpvIUuKX7lXAhpuPUd0m/Kr6oDyY5decCFJNOO+5bSDgickcgk2"
 }
