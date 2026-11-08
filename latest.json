@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.52",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.52/Dean_ExToolkit_v1.9.52_UPDATE.zip",
-    "sha256": "ce91baddfc261683c4ccff6b5b4b6e38c6cd0e57b040de3f27adb691187a5eb9",
-    "notes": "Updater resolves release asset through GitHub API and downloads via API asset endpoint, avoiding failing /releases/download route. Retains persistent preset preview panels, five transparent previews, 30-minute license recheck, SHA-256 verification and RSA-signed manifest."
+    "version": "1.9.53",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.53/Dean_ExToolkit_v1.9.53_UPDATE.zip",
+    "sha256": "737c78eb81911b64a80d1318d6ea9e575c2d5717982b8ffddb035afeda73ca02",
+    "notes": "Reset in Spinbetter and Coldbet now removes individual Layer Style effect groups instead of disabling them. Blending Options and text/transforms/animation are preserved. GitHub API asset download path from v1.9.52 retained."
   },
-  "signature": "m2DBYPtD8ABOuM6zsDDpKnd2p63hfic8m+ds6Tte1duKQKbHBkZwUGBBF3yDl8HBOcajVfHWte1m2mrI/w0+p8C2KMqovWSC8+67VUt8wwNZnAm4tNz+5YiWOiOsuC8QszbZFySvLb1DkHJvT7muCoOO/Dv/v0xs6bpvKPB5ESrwOHfCqO/PAMOOWJVkAZJW6RuSuAB3vhctC6bpSzlmRWlJefPYXSniUIrOwO6+a/yk1Nrb2jPWajlwYIPvWlliVOF3GPcMuSytyc3K+CMLglzjk3mHB0sYt9BpENOEhzUF4+U4Fbus7+ygwI4rGDcLlYsYTMmxdmYN7aLyuCaYOAX+nUg0GpCeE1Gjdnyyx0EEEjIYs4+vzLFG2vDeqNP4cqX0oVUhg3qTRSPlrbfp7yhko/xVALAg28uBjdnYqj2CSc5fH1Sep6VUzpWtgqTjKVSXATJPMRnMVtpvIUuKX7lXAhpuPUd0m/Kr6oDyY5decCFJNOO+5bSDgickcgk2"
+  "signature": "uYEYRPdH4t4Ke8ZBNSodLG+7dhRQh097mzkHK3DCrdzf2K5HUz2bDeTmDximC/hZTlONxgfwT6DMj5tnELUiJdeSiVGQmV4y9u1uKj/fXYzZ9QkRrWWDy/x/r/OSNS5tXXhOkVRWYsRC2lR24u35dhEf2j1jncTI2/RoV5gwsxiXUIBS7XnIsuUfvjlnXzqqrpNSeN+IFGSZy65iWdYktlvJNcrW+RBWQ20rchvQzndP1yD4dfKfmHJGzw/cPRvsAGgZwWIidQBvzyJYwUK0olnP/z3Jw+jSqfHmToM9Mdnq0w4TIXmpOB6AGWqW81QxbQq1LORtDNDtLWmZllWLiiBZ+7eNV/JlvIJcp6lN5IuVAZgV8SVwcW6swlEy1gWO6HDrc9Kt/bgeVNEdNz32fAEgvKGZ9aWXpZI/fhyGq4IvBUtG0s6pAE4cyeQkminyYzGbeg89SGNBr8asNillNOZeQKMt99XwLX2GWSBt7W7ddxZEhKaOsCfTGpsVYxTl"
 }
