@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.55",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.55/Dean_ExToolkit_v1.9.55_UPDATE.zip",
-    "sha256": "eacab70e9a1012497394fd92adf60914413a498d7a309979bba608345c86a853",
-    "notes": "Fixed RESET in Spinbetter and Coldbet panels: selects the ADBE Layer Styles group and invokes After Effects Edit > Clear."
+    "version": "1.9.56",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.56/Dean_ExToolkit_v1.9.56_UPDATE.zip",
+    "sha256": "1efca849aa9c1c032ac73e3932c75f4e223d0521e4bf3ae4624dcefdb1c47ef3",
+    "notes": "Fixed RESET execution from the CEP panel: activates After Effects/composition viewer, selects only ADBE Layer Styles, runs native Edit > Clear, and verifies removal."
   },
-  "signature": "nnuloWgNnDZ4fGf6yWkNja4WxnPACu0gKv46yQ4EHNzedJxx5uaSd05+d54TBjjLopHuVhurqClp7VETaxynkcsWYIuxhrNFt9z0oI6rJ0DrM7xnQhxtT8p6+adhEbDxT1RnqkD0qlN6NFS+oIGEBbGAmzGWS07lQjatp03AdXrUNWS7S0334QtMQ06A30gzcAaySC/qkLigHNAVuhzytrYOX8peP4iT+esI37/kMZuyiwkN9yxq55uTQPrTqhYk6Fq0xBZibQ1cojP2B8fh6XqufIDoSGeUgorLJ5Mq91SHx51LnamjT+GwksmIbSD5FDkV38s+YP9JwSzy+5qVVPiY7dWbMbgFrXxEyqxfyZ/UeKUKsaimQlsV95Du7WFiq3zv0uqKDqds6J3WexJHJmG+i63HYq/XJzFVuSPTzkS0W3j2ch/jILsBiKIaZJamnquTuCYAS2Yzrt2j+rJGTPbn37X46R67VX4Cr71sVAOCliWmRpxFmVafp1pXW394"
+  "signature": "hFps2uJyQA/h9FVKso0Mf9a76xSuXgTDUktxWOl24gfLfD45je9099VIIz+UMAqwQpgfgdj47Y/BuM/uvFea68UszHIIRTm/LKPsN4j2iJNGD4k6ixPPiuF3viS33MjPgsaJ4sHmEkO6uiZnWieWOexTpDZzWGKXJo3u23mBAxXlLfYbQXSHA9XT5DNJIpCGN4cp96G2B9FNacOvxUAz0a8Q3EROhklR7dr0DZVWkerRycMXrGJ1DicdENPuQhpNwunwyHRAuF+kgA+jKIiR1CtiBITGIPEuZVXP282tPXI0FTGk38XdPeS5Y6SlvO91OdNn78OuZVvBMtC2M3MR18IEtkQ8gPy8kEe8rYOzmPlF3OjduxxLgn9XQTI/J6xRyGJhiibUj9MhSAOlNBgPAcvM9T14e9pBs738JBwM6F/tru4ElJuNIyY6DVelcaMFZHc8ZDXLgMxzeJwgIIEojyQU2eoALT4noUK83VIpiuylVEntm0v6/AYlfGtv/lUu"
 }
