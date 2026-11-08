@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.59",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.59/Dean_ExToolkit_v1.9.59_UPDATE.zip",
-    "sha256": "db2762ce973189adad9b20dc997c2ade2bfaba44b41ea3aefb50e68193602875",
-    "notes": "Adds the Glow Green composite Spinbetter preset with separate MAIN and live-linked SHADOW text layers, fixed branded offset, supplied FFX styles, and transparent hover preview."
+    "version": "1.9.60",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.60/Dean_ExToolkit_v1.9.60_UPDATE.zip",
+    "sha256": "8bcfae17fa5c5c7e9b242f7117571486256ca5811768aeec3bc7c7dd63822283",
+    "notes": "Fixes Glow Green preset application by explicitly targeting each layer before applying its FFX and verifying that Layer Styles were populated on both MAIN and SHADOW."
   },
-  "signature": "oCFkfrXAol4BT7aofw5gPycwedZ9bNgsYCjyLzxHuVHEekwKOpV4EpA2XUi/U4bV4G+gDegPL0ySj3YGFPXkGwDDOqxpOBrukWPWo8O56TNqI+Ag7FXEHYtwLtdVMOEUpax6FrxMC5zqPoC1aoAMuVY7VazBw7T9pZX3g+j9/Bo8nuhJypqLVppI0rv8iVAcdD/1A/r/dlnkwGEtQ9e7+GlGYbxaLuLHdiAW+Rn0MUEwTq8OkeyJjuWwhYNGG2EtuqYhFqZPTRk3eA95/LNH1C1MuKRrMLTmn9u/f3qPePQsg3oP8u15GuwwsmSeLtXtV2f1rmKvPuKYB6q+lk47gLPz0tsAM01GOwCY8DsKgWh9DgMnfQfXGeaKtTELWYhDfHbyW4Y+K/88iLedLa3uatzhZsf3VQJpbgULGFjSROswVugVQk4r3WQ2JW3jpAkU9i05yp0xJxgQmrlo+J9LFvcwzuaQPR/oq82SNWZor9VlD5lBUySvt2EszFb+3J3I"
+  "signature": "P9JibaYgOW6DHLFLRO84honnc+b70YLqww/y6BQu2BKBWK7Mj+lWVBJ370jBGfKyk83YU9RUISLG/KcKqgkpok+0eGVUEtfyDxsc4BoJPERH/gpzTuZG98dfH3wXYG4pXQ/o2jfZYTyQnUKPXft3hHMepskVHOgSlBs946Ox+Xv8WDwhCTJBaF824DFVPk1ziCIKyBimcTInK4iz3v1NQmpEnpBNmgQehE8npJWO/Z5rc6QvQ2eEBY1AvVevg7z0IqalP25DzNcPj3Kxq0kJD/cNhIUxcLBQIuVoGrwVPN8sQs6bAJmVwLwr+psP7HN57vtbNfm16/axmxtdQVuI+TD53n9z5ywE3xcM9wjd3Q3cvwmjDgrS5iad7ZpE9+jWEVQ5sK95RkMXOg89ytvZxL0wrsQ1YgLLcJsssq0bKbAcREgdj0b+/zT0lmpVwsORm5UdL2LBkl8bpiWF2M4xN7b/ibH8SNsX+EFpFU68IJ8lSg+aBalNitIjWQDQ4+LH"
 }
