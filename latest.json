@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.58",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.58/Dean_ExToolkit_v1.9.58_UPDATE.zip",
-    "sha256": "bdd39a808d4f0ea3c10b72d137162904d4d8895bfb2523d2505dfa8a208e6bf8",
-    "notes": "Restores AE activation and composition focus before native Edit > Clear; avoids false-positive Layer Styles container checks; normalizes preset text fill to neutral white."
+    "version": "1.9.59",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.59/Dean_ExToolkit_v1.9.59_UPDATE.zip",
+    "sha256": "db2762ce973189adad9b20dc997c2ade2bfaba44b41ea3aefb50e68193602875",
+    "notes": "Adds the Glow Green composite Spinbetter preset with separate MAIN and live-linked SHADOW text layers, fixed branded offset, supplied FFX styles, and transparent hover preview."
   },
-  "signature": "OncL2lJaRwwyLFj1pGmFXR2eX8ygds2mvSUVhWQaawiJc0HBNde0Q8b4Dy0pupcWN+DSLCLFE1RbAugT8Qh4VKhKGvQhOd2+lQhW3fEZFaURZWu9ZXOCiM/MtgwP7TyHmu56d1QqsK2MhW0QMPGDTJtnQdZ/coq+bQ4aDM1spqEwVDLV+VTQ1ZAgRe2DkMBgh/QHlJNMcuHx9vydKhtuKdhna6fhMMV7QCIP7CcQavpBMXzWceP5+Y2OOEiRjv4dRu9xApGpcw2kLVKpfRrWfUROsZhzIfrLLuObGiC3ON9H2SNWl0rJ5DXDI4tRZkGbVMdxJVUySdolblq6RQcqm1GNUE3AWo6fIkGrRNzj8JTi4Wm8ZYrSLRR79j9JRMV31KlS96x78pHMmZg9D3XTTe9VbIjKw3V0+Z3o2PnZLohTclSyOhsQkcOnsgeWD6h3/brMtIbXD2i98LVvpwuyYL89ZGy2obasjxx0qpeifsvlD656+no/wDKaZAd856ol"
+  "signature": "oCFkfrXAol4BT7aofw5gPycwedZ9bNgsYCjyLzxHuVHEekwKOpV4EpA2XUi/U4bV4G+gDegPL0ySj3YGFPXkGwDDOqxpOBrukWPWo8O56TNqI+Ag7FXEHYtwLtdVMOEUpax6FrxMC5zqPoC1aoAMuVY7VazBw7T9pZX3g+j9/Bo8nuhJypqLVppI0rv8iVAcdD/1A/r/dlnkwGEtQ9e7+GlGYbxaLuLHdiAW+Rn0MUEwTq8OkeyJjuWwhYNGG2EtuqYhFqZPTRk3eA95/LNH1C1MuKRrMLTmn9u/f3qPePQsg3oP8u15GuwwsmSeLtXtV2f1rmKvPuKYB6q+lk47gLPz0tsAM01GOwCY8DsKgWh9DgMnfQfXGeaKtTELWYhDfHbyW4Y+K/88iLedLa3uatzhZsf3VQJpbgULGFjSROswVugVQk4r3WQ2JW3jpAkU9i05yp0xJxgQmrlo+J9LFvcwzuaQPR/oq82SNWZor9VlD5lBUySvt2EszFb+3J3I"
 }
