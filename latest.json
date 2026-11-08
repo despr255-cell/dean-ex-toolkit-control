@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.56",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.56/Dean_ExToolkit_v1.9.56_UPDATE.zip",
-    "sha256": "1efca849aa9c1c032ac73e3932c75f4e223d0521e4bf3ae4624dcefdb1c47ef3",
-    "notes": "Fixed RESET execution from the CEP panel: activates After Effects/composition viewer, selects only ADBE Layer Styles, runs native Edit > Clear, and verifies removal."
+    "version": "1.9.57",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.57/Dean_ExToolkit_v1.9.57_UPDATE.zip",
+    "sha256": "3489308c34e0fee86a6ff8633888bba494acd2405acc93ee0a3b84c613aa2ad9",
+    "notes": "RESET verification no longer mistakes the persistent Layer Styles container for active styles; reset returns preset green/blue character fill to neutral white."
   },
-  "signature": "hFps2uJyQA/h9FVKso0Mf9a76xSuXgTDUktxWOl24gfLfD45je9099VIIz+UMAqwQpgfgdj47Y/BuM/uvFea68UszHIIRTm/LKPsN4j2iJNGD4k6ixPPiuF3viS33MjPgsaJ4sHmEkO6uiZnWieWOexTpDZzWGKXJo3u23mBAxXlLfYbQXSHA9XT5DNJIpCGN4cp96G2B9FNacOvxUAz0a8Q3EROhklR7dr0DZVWkerRycMXrGJ1DicdENPuQhpNwunwyHRAuF+kgA+jKIiR1CtiBITGIPEuZVXP282tPXI0FTGk38XdPeS5Y6SlvO91OdNn78OuZVvBMtC2M3MR18IEtkQ8gPy8kEe8rYOzmPlF3OjduxxLgn9XQTI/J6xRyGJhiibUj9MhSAOlNBgPAcvM9T14e9pBs738JBwM6F/tru4ElJuNIyY6DVelcaMFZHc8ZDXLgMxzeJwgIIEojyQU2eoALT4noUK83VIpiuylVEntm0v6/AYlfGtv/lUu"
+  "signature": "usZPBUuzTchND3H87Dz9duvsEYUXt96fJDRo6TAsOxU5tgP2ET7r1STtSbe97lRYiS4HPQG5BIz42xhEqeIg/0nKsZRhod8mw5DvVSRtM6lSP0/MPkjw7fLYGsmxEIk26Z5b+3YzwbXyiqfgagcAGgZbGk/yGtwmHHLoO9q+x6XhHyAmMS0nz5hfGb0BIU/DGDcfnBSVrZHZjuKLiP17GOw9Dq5phNon0AIWgxX5ujMOrTh90Gzo3ScNQtoOPsUdno1tKg6R36ybpSFhy0yrquBDJ/oO820N5He6Vt+64Se2fEa6H/sC7EN0fYEbYUwGxt/94G6dHUFgBxdvWU920QQQPjvpslVF3oar0WEtnXchwUr+3ekNDPnlz/EH5hv2mcG0AAyF04uLhJQCZ1eq4vtU6FuB2KNod64fGTp8AMgIGCMeG75Yb4FsALV0ib2U1eZrulY0wG2b0qnIAed/yI+h2oU8QkdAXd8+6QrlPgQTrmv3vHvtxFi//0SxKZrn"
 }
