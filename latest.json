@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.69",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.69/Dean_ExToolkit_v1.9.69_UPDATE.zip",
-    "sha256": "a9263c07af7db1cc74639fe5ad6bbf481f16e5c6f53be5b001c04c165027a079",
-    "notes": "Fix composite style scale links using stable layer-index expressions; preserve follower text style while live-linking wording; force Bonus Blue STROKE character fill off while retaining the supplied FFX Layer Styles and mask; restore Glow Green SHADOW and preserve it for diagnostics on partial errors; detect actual enabled Layer Style effects so RESET silently skips text layers without styles; neutralize incoming fill/stroke state before FFX application."
+    "version": "1.9.70",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.70/Dean_ExToolkit_v1.9.70_UPDATE.zip",
+    "sha256": "b887e35e1897affc70bbb27bc4dcdc4d96eb44e9b215900e7625dc063b76037f",
+    "notes": "Bonus Blue STROKE now explicitly enables native Character-panel Stroke with width 4 px and Stroke Over Fill, disables Fill, and sets tracking (letter spacing) to 64. Preserves FFX-provided stroke color and mask. Other 1.9.69 fixes retained."
   },
-  "signature": "cmOT1O0bLkgXJXIxsPXFZcce+BCZg0T5jxW22g0inljXuYUiufYRaSacHrlAhtByLn2/Wy+toxJxrHvM5bKqLU1czSBA8SeU0SazxsPvjH9RYcwmf+xeFcbhYvciQij146eurewJ5XGqCuYyau13y0rlVC0Qdj9DD2ngNb/pxcJxjl6/k7eW5bqHNMCh4EZ+TiWzllGqTqEmxUMYbEC/GltMxEDgjbl7n3nSLgHc5xsM/2Y9wt97oquGx/to1CqYRWyVIMZXtEvfPH8O6ownGogVY8O6S7PiUbaiTc2I+rovyA5fqmF2dmdhU1ABaAhmNZdw4hiwZbA9ppqd2GJ1ANC2GYtF6FBQyoodE9uRkFVi87Qcrnn6YlcFQp7Z37sr8ru5f0Tv0STPhFroFF97r7otcAQfuJP9ttV5ClNv9jtE8BU944yOWc4xHmt25xv6cZ65iMRMnvEG6SvvSqcogUIley84daUuDGjyUOYjCV9n3M+xSzVbZ+rU5Cfphsv3"
+  "signature": "MNiVfyhBpxrlZeiuFKUeJ1jXHfXqlECgzAGZm6cCwTwwHm52gVoeF2cze3k2oH0U/D6H0VsNvk4gPc6L4jCWWOz5zHsJnfr/mLPByFGQrktiVj6elnDXcLqtqWpx4vOSm4RvvrfITzxgfiKeQaCkczELU3PLwmF33HvRruPn5XtgU7AQXAqy7bCi0Kz8KVKIj5knX49Zk59dojBOD0jjfdsRI1jTfTKZ9ByECeXrtrUpm12sTVad8qLuHsgCdCuMH/rGc9tsidQaB12JB24bAdiCR1XGcSqsLGEJnZE03pqcabPKJOQ4306k1D2aBgsxzJ1UVb/7oA6MT30uhAy3ubqurJDflrdik+zD6gKCSMTEHpouS/ywuz6EFla1hBhaDZrMPgli6H7eTPBhl7XDDykbCW7OTOfYTHl5bb3FVlbMCr6IjpgvhtL6H2SIg16X958usPVCRhDSktfH7sKK3C6x6PHwIYdSpmwmpmmW+RU95LrYbPwWyLp6nt12L0Dn"
 }
