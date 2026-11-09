@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.72",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.72/Dean_ExToolkit_v1.9.72_UPDATE.zip",
-    "sha256": "a7b99829c41f595494a3ed515f49d8bc1f8439e007d590cf567cf2a647dd2c59",
-    "notes": "Bonus Blue MAIN and STROKE now use identical Tracking 86 to prevent progressive glyph drift. STROKE retains no-fill, native 4 px stroke, FFX mask/layer styles, and branded position offset [-2,-5]. All 1.9.71 fixes retained."
+    "version": "1.9.73",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.73/Dean_ExToolkit_v1.9.73_UPDATE.zip",
+    "sha256": "0c8d2191a3d7223c70c3ccd76dda41b8c68948f288d35a6597e4cda0a2a2170b",
+    "notes": "Bonus Blue STROKE Scale now follows MAIN with 103% horizontal scale and 100% vertical scale. Glow Green composite scale remains unchanged. Previous fixes retained."
   },
-  "signature": "Y/LLS4MJprlTV9CsS6SDRKPM9uOzHy8isV+gfPvceyoH6z1CmVZc8zFsnzr47rI4oneDCTOwX/U2mcOGsqTExepkrrAilTs9NbfnFl63VzM90hae0XFmUPFabAnx8PhdthJTn5tOmW48BmVxKmTNGfuL9wvsJjCpCU28rHaMRhp2xveh/3nnnovDTqJk6uPyzDh2Nr6YFy9SSL3WMnP1e9FbKOSH0+uDLXwpOmRQS0xACAcJljH0VBqad/Y5zIu7/MJvi6+gtSs3FT1WSr6fyYpAqpeNAqrUXA3jCW358L3VGGXquTeTI3mvYpclx1GizqnFSj5+8EhjnctIhVn7IVjf+gd6btt47JurHLOKH/xNJ0qzvcBchz57mo3FeXymF8RYAHYvos4wagMbgZU68PCJNOpXfG3LS9dFg+DJikSBhz2LAd8K4q6KnWqWv+zXY8WZm7hrbCJqDsJsSYlL2TqLUk9XOulLKHESXl4FZA4tyyEPfw5JXPP44o4+3DHS"
+  "signature": "GefcYaNEOf9EdSZ1kvTSK/sCo69yHUoK1yqGK9JFOla32iSU2+IVwEKwZOg683V1oqUB36kKRJDegI+LKT7B7D5KIbcm1nRnCZFt/EKNhFun+TY+Hl2LJWCs4H0XZGet6E8vMUQUuv7QDqJvF9kisMdPHvru5XzRAYkLS/YLNh/Q2nP4ZiRk7QE5Wjce2fY2NAc+JXtShHb998yQ5AK+7V7FW5BAiikpk6nQSItLYpMVXQK5zDCA/XZQQRhs92b3AQeRoNi/jqWUQSkbx2KLj9GRADRq2zveHw9ycRHYW/TnasW58YyX+Oka9RA5Y6ECYpjme1FcmCSyrLUmRCReGwfD9G5Yhcz+9BpFxk2k1+7yDFK8cG3I/tAvJOofK+Ns0atD6sNuxwNm5/Nsra/2x97IdmVwmCvfaI5RSx+y3OfLsmQNXg6p8Hxgw7wdEvAyRnvyDDwpMQ+DzxhcDXcZyEyKADje4lGlVdJy7BJX4bgXALUca4v4ruEmPifXNZme"
 }
