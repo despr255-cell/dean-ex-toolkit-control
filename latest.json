@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.66",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.66/Dean_ExToolkit_v1.9.66_UPDATE.zip",
-    "sha256": "f0b9a6ea0f66f88eac7abd89d825e7e0ec5137ae312496c69a84fede7396f5f2",
-    "notes": "Glow Green SHADOW and Bonus Blue STROKE now follow MAIN layer Transform > Scale through expressions. Added Spinbetter Basic White (Futura PT Extra Bold, white fill, #EFFF48 1.2 px stroke, tracking 16), Coldbet Basic White (Rubik Black, #FFFFFF fill), Basic Orange (Rubik Black, #FFA73A fill), and Basic Stroke White (Rubik Black, fill off, 4 px white stroke). Added supplied hover previews for all four buttons."
+    "version": "1.9.67",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.67/Dean_ExToolkit_v1.9.67_UPDATE.zip",
+    "sha256": "d3bc74f95742704c224917bfb43ed4533d8003314546daca42b4c986d3172798",
+    "notes": "RESET silently skips selected text layers without actual Layer Styles children and returns OK when nothing is present. Blue Bonus keeps its generated STROKE layer if a later setup step fails, instead of deleting it; partial setup warnings identify the issue."
   },
-  "signature": "kLdzz+Sd7Y1PRDXDppQMJcADN+aVDCERGrsZ3ATG9SrwydULgxvhONpI4RXRTv9QvcLvdFBLFNANrBkcQfybsNNp+va77lzJ/cKR/Pqt4B1tnsnzQQXwWIdTp19y0Ecy1sS9ltiPFWuUD84o4DCGHtpxp3/rVqPS8epGPWMbcm3iaFgAyiEN8aufl4yCxSUH+e94lmjTTz3Rf/Q+qOJ0whcLy8hGQ2kbg/Nz5/9f8gvI9tK2RC97IZpC977IWY9YjkDlfZv9nFkIDtHfXJhLcLJNS5fm2Xz9eM17rDXYpslvmPjMFt6pIEN2RgUXR2f9w6YzGB6AEwSp5QTeCfEyaPnw5Df4O15ktl4SGkxttNEL8zWnRNQ3dEOcpZezSyhwpDvXNb8bxKorutebUGJ6S5SNeX+g+2y3Ar6LLx2SGaDH1mdKF2xSZ12yE3j7mwZu1PUtrwUEcH0kV+HjHfhE86/OmPUaGZKqplQHgGneTRQUxsVFeSFRGe1uglHT0n3U"
+  "signature": "MGa3HXQyRXqzWnbSfmXT7Ic8kzFmYm/LtM+RgBdL9XIfm9csYSr4U6GJu3uFGXjZ4K0FdgTkyvxel1L5Ch42VI3jQsHJXoGdRD7HuBtrEI/8JQGkhi3RGc+5hfa5LVOg0nLbkx8Kx8q4iaWmdU1CMNpVrR6uZXgbrr76GxXEPX4BZPsOOdPXPa4kHyXz8Z9d0FvqtiHpNTDxUS2LTpkBQw9NA5X7gp5CokFZT8LCTW59TP8zC9qQqguHrAYQ1zCDxE1gOMgnMdudOpYiS5cXNycI69jqS1xetW2vIX4DnB3LoBrXxcREPoJkvjYzU9Zr9S7Kde+r6lTjKxPJq/Zs86rd7ZqwORPCUFfYAxZJfZhsp4m6Or4HwRqC+WN52x1oHSRnhQoXMvpLKNIAmfPdRuJQRDRAkijFQfKk437zBbI9tqxZN/aGN0eshrX/Q88bHbzmC/Gave192LuCMnotTnfyadk3wG2EDuAF5tfNSoFLKUw5S8ZqC/o8+nxwrVBM"
 }
