@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.67",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.67/Dean_ExToolkit_v1.9.67_UPDATE.zip",
-    "sha256": "d3bc74f95742704c224917bfb43ed4533d8003314546daca42b4c986d3172798",
-    "notes": "RESET silently skips selected text layers without actual Layer Styles children and returns OK when nothing is present. Blue Bonus keeps its generated STROKE layer if a later setup step fails, instead of deleting it; partial setup warnings identify the issue."
+    "version": "1.9.68",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.68/Dean_ExToolkit_v1.9.68_UPDATE.zip",
+    "sha256": "2935b3651b2eab0c0963a654aa46313337ce3c217ef847558f701743c5504426",
+    "notes": "Updated Bonus Blue with the user's new MAIN and STROKE FFX files intact. STROKE FFX Layer Styles and Mask Parade are preserved; removed code that cleared Layer Styles and replaced the outline with a synthetic 5 px Character stroke. STROKE position follows MAIN with expression offset [-2, -5]."
   },
-  "signature": "MGa3HXQyRXqzWnbSfmXT7Ic8kzFmYm/LtM+RgBdL9XIfm9csYSr4U6GJu3uFGXjZ4K0FdgTkyvxel1L5Ch42VI3jQsHJXoGdRD7HuBtrEI/8JQGkhi3RGc+5hfa5LVOg0nLbkx8Kx8q4iaWmdU1CMNpVrR6uZXgbrr76GxXEPX4BZPsOOdPXPa4kHyXz8Z9d0FvqtiHpNTDxUS2LTpkBQw9NA5X7gp5CokFZT8LCTW59TP8zC9qQqguHrAYQ1zCDxE1gOMgnMdudOpYiS5cXNycI69jqS1xetW2vIX4DnB3LoBrXxcREPoJkvjYzU9Zr9S7Kde+r6lTjKxPJq/Zs86rd7ZqwORPCUFfYAxZJfZhsp4m6Or4HwRqC+WN52x1oHSRnhQoXMvpLKNIAmfPdRuJQRDRAkijFQfKk437zBbI9tqxZN/aGN0eshrX/Q88bHbzmC/Gave192LuCMnotTnfyadk3wG2EDuAF5tfNSoFLKUw5S8ZqC/o8+nxwrVBM"
+  "signature": "DSRN8UyMA0ZhWsVt3PYX7aes04EybKlbtZci688EuG18mVi6h/Jp8v/Jf0mkFwCl5cRT8K/RLOXizHFMpf5trd4f+o9mNyLynw6pNCfot+G8f2PGXT35BcnQI3VYteRrLDADxCy2xVp0ptCVbplLFu07jqxik9efqj2ZpCPTtMYlqfdKDRjARi9YID8azwDTKKmsSnTpB6fJIcHgovdxXoRk3034WStwVg4vrZEEDElA3pgowHycY2a+2vI41Jbp3q8cYGj8286SFt5AxkrpgsEE7eQ/2QP1rCT/wt9QvnLys0Ns4lB0tVV5p/qEYXWGMTiDdEto0W8dCmsC42ACG/+oNm20p0+vFKLLdsP0quAHX6aPDY6p+jt7Btd0V1O5LEspQcJGT1xGqmmSw5FkbNwq6q7Ad5v4uuQjJIhFIwZX8a4o1D02ARBLGwNH15sTgemZQLw92vPLzr2t2By2vWSV4EioBkAqz8c3JsOj+gV4NX14BlPTcnWLI95qXpPd"
 }
