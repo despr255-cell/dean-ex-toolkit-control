@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.62",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.62/Dean_ExToolkit_v1.9.62_UPDATE.zip",
-    "sha256": "176db92b876ec585635afd14ab3256fd46144e61336eb30feb536745f400189b",
-    "notes": "Blue Bonus: STROKE is above MAIN, retains the FFX-authored displacement and transparency mask, and uses Rubik Black. Glow Green: Futura PT Book (regular upright face), removes text scale animators and matches Spin It button styling. Spinbetter hover preview switches between Spin It and Glow Green."
+    "version": "1.9.63",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.63/Dean_ExToolkit_v1.9.63_UPDATE.zip",
+    "sha256": "4a5cbba48264a0d9baaf3f739dfd4ce1ad70568a2f440118e8273ed42720b2a7",
+    "notes": "Glow Green now uses Futura PT Bold. Glow Green and Blue Bonus normalize horizontal/vertical character scale to 100% and remove text scale animators. Blue Bonus STROKE is a native 5 px text stroke (no Layer Styles fill), retains the FFX transparency mask and stroke color, follows MAIN text styling-preserving text expression, and tracks MAIN position with a 15 px left offset."
   },
-  "signature": "MHxvr8zKlXV+50chHOIatqmMA49F2H/pjgZ/avXIKzylS7GbLTNtlzrVx+jxbAHg9xoAjhXAJ2h52K50ty7zk7kypa7iPeu4susRsi2bXf9yuh1vUE3hFdIrAXaubL6UhPUggLi0dIXDUMq0gMIAT3qgY/AJiZrEAFiohoX8RRlT1AA+/+H7EP9Bk6T4Khzh5dz2Zd/g1riV00vwlD/OXPNcMd4ka30YuYYBeb9hSVZ5MTbP+FFFxTT6jMtSO+IU76Aze0vkpdogI/7j+ZfbHsDuL4QOgZSzaG9RuB0DrnWyRXOubLI0Uy2wODkD4VCdwc5XAhqx/iEUBC2eL8VN2TmNIju49bx6/AosqFPcRYFOBJtDxsXouTVgG5F00aZVRxl+hGd3BHHfqovMaurq6F1HkyHaAA/oU4AYrd87nebWn2i62o0EXyvHuNcQU+l5/Wi2fFavM04AZbtxs5Krw8Y3ZkPkyARcNEFdqfvlcHhMrDcYHZICIkpozDxiZ0gx"
+  "signature": "r2JbJaHCoH9wiN++eyL+h9GO6sqAQFrw8j1j1hrc1pdZ1NhALr/6TvJjswZtU9IBjRyVbHBH6Dzgf7LeoMfucmNjPiwxq7b3MRraHoVWKTCgdHBQkPipAzPyz6w8gYK1vIJVixlQ+NhRzlCM4J9rhv/GdU9z/57hylfNRono84CkqKN6U6gq+7pdWZHSj+pQ6WyCj8qjnOicnTogZEVq2xKMHl0UIdFBSzPIfXyC5cKbQioP3+/oMicGMnc20Ssc5p+yYnslr/BOmQRzU5gt1gB2CCBZgdBTXky5mR7sOplEsFZ2EwpZuI4kpRoZ8oFNq2ISTisWPqGfu78XgRyb/USh56XawB+53TCOHiAaJ2HHewzdb0eymz49ctjhEcRhwCDWp4obLN6eh8FMsZV7Q1ysmqEXb8GAL0X7yPS/aLzk1QCGUr8Dmj93tqWVGc7EkuQPLs7//vvWtxPDzDui8j9XcB7jThgTOiT1rgKIwkWcBZ0HzVbP18X65Kx7LqnP"
 }
