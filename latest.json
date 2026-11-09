@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.64",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.64/Dean_ExToolkit_v1.9.64_UPDATE.zip",
-    "sha256": "e1f76458ece6fbd2d7c8c413ce5702626dcea5e44f88740556315df0605bae2b",
-    "notes": "Fixes Character panel Horizontal Scale and Vertical Scale to exactly 100% for Glow Green and Bonus Blue, including live-linked shadow/stroke text styles. Renames the Coldbet button to Bonus Blue."
+    "version": "1.9.65",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.65/Dean_ExToolkit_v1.9.65_UPDATE.zip",
+    "sha256": "6a2e6377519357b6386174c0b855d2d46233e06baa8fba3a33a61aca5f2c75a3",
+    "notes": "Removed all plugin-side manipulation of text Character panel Horizontal Scale and Vertical Scale from Glow Green and Bonus Blue. Removed scale normalization, scale animator deletion, TextDocument horizontalScale/verticalScale writes, and unsupported expression methods. The plugin now leaves those text parameters entirely untouched. Button label remains Bonus Blue."
   },
-  "signature": "TsPxF1nf1V084W1LT2sMICKenMVjKw0eb15S8qxhOiok24cHOUhHG0mkUMTimDNOY/ZEed+p8jGqWM9rYazfXEAa2pPg3GpieI8eu0jWpl2GVvsH9viV8VZQKKBUQNDCWDNNhWp+TqwrQWbBnF4sZQNJVQbnTe0eu9yRHC1S5zG0i3PflPGHALVK6Dic9yVtiuVSCumOeTvuEwSCUpB59IaSQkFO3wnX9/ohBNr4FIWa49KILcTJWX/sfNYeALvPxuexLEyUTVCDtax4V61Q5hdET2b3RE5oa2HI3VzH1w/qz0ujBF6wQ0eZu7y8EupEkYSQRjhFXqGubU7e64M3il9qwvzx37OszK4XMzM7lxrN1p0+lj3YHOM0CmmfC4mVpwbD2h8ZfGaIaOUHWdW+oG9eRa/K1/HKNVaCM6E4QQ+xQJnazivXt1k70DcsFByz1KAkF4VrN/HUZnlH6h7IEQSo4eZH01+/QZpOahYuV3EwZcqxKRZ+TqbSvOCGGZMN"
+  "signature": "Ovtvct6t7Bxmu5n9Zr7J6FhuRXmNGOfZEVMzYH9ZRmGZdoHM6U+iZihKTWloQnPCAl1tYwbrAyYDYBrYRUuCnkvSYi7kaD5qqaUWtZP/TRxHR67ghDV5VSTfAc8wgNdci66IpGYjfeJewZEOOsP3led5Kj0wHd6YuXrdk6FJbRTsTZx6ebQx7ml/sgYRHfN27EZO1kZc7m3uiyh3/JLUWLOL4jGnuWklwRBOntvYn6wDIrDt6//MbUCeULvjz3QMGRWPgpvV/WagQAOou+cuUlxpGl2sY2JZigckDMBceUBynqtz0mj4Q12mpro4ZcWUP7XqqT/M1zJD1fJfXkVUSYPgsNiH3fkaKVBSOxWAQTO4+Yj5VZJC5XSSveDITrNoA30cSfbFz37Aak8zwCb31v0XBFmdDFSvguJ04LZ7DwumkS392FgahlmSKiRO/p0wHFzHOqYG65bOPNoa7Kg151Xw2VzXdyk+pwphvGPiuGfrImwbouRcazpnj0F7jnRS"
 }
