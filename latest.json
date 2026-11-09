@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.71",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.71/Dean_ExToolkit_v1.9.71_UPDATE.zip",
-    "sha256": "96882ac346f0b7c88484de6e7b83a472255c0448059069eb3d26b836ea393bd5",
-    "notes": "Bonus Blue STROKE tracking is now applied last through the Source Text TextStyle expression with setTracking(86), after text synchronization. RESET restores the child-count test for Layer Styles so single-layer presets are detected while empty Layer Styles containers are skipped."
+    "version": "1.9.72",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.72/Dean_ExToolkit_v1.9.72_UPDATE.zip",
+    "sha256": "a7b99829c41f595494a3ed515f49d8bc1f8439e007d590cf567cf2a647dd2c59",
+    "notes": "Bonus Blue MAIN and STROKE now use identical Tracking 86 to prevent progressive glyph drift. STROKE retains no-fill, native 4 px stroke, FFX mask/layer styles, and branded position offset [-2,-5]. All 1.9.71 fixes retained."
   },
-  "signature": "ZtbJQMSk5bT9Inov33F/pLDjuOdMlgb0Dfb/iUB+r6iGrNev6CUgQhXWCeL8tGcSKeZGeAtwzHi/jQI7+wVq540csiUgxyBfVZOd1fcTktyFPJ5HaOnSVrLr6WISB0+9huVS/RVdcqr3Bix3UKUNvk08nTtCsOQFxCQQMQY+zSucz5wa1P5I+dCcbYWpljKRiN9Qxq0G9qCaM+uBU63/LBWrip2mcwHuTnnTVJvymFOnwjN5aGpdFBhbXKoPA2bSkbcz68p/OncLlqmPzdd+L32xTT/Nv4Cjdgq7xTNkZxcUiiWuMCmfh9od/G+n2IC2XjptkirZkZsDbHVPZWer4a/+Wi7i7L18cKOo9iKLBPPAsnBm9/fH2nLq532x1Sa1AEDaOk+Hy/xlzmltjvagX/r1wNwUwSUND4T8wtdQyb1HHWvvywG4gdL4eZCMJ7fqIkCK8RfEEJDpUeBXUItRQ37VV+q8UbMIxQBz+F59aDvwtwGUmwcWjva5NAB/HEHm"
+  "signature": "Y/LLS4MJprlTV9CsS6SDRKPM9uOzHy8isV+gfPvceyoH6z1CmVZc8zFsnzr47rI4oneDCTOwX/U2mcOGsqTExepkrrAilTs9NbfnFl63VzM90hae0XFmUPFabAnx8PhdthJTn5tOmW48BmVxKmTNGfuL9wvsJjCpCU28rHaMRhp2xveh/3nnnovDTqJk6uPyzDh2Nr6YFy9SSL3WMnP1e9FbKOSH0+uDLXwpOmRQS0xACAcJljH0VBqad/Y5zIu7/MJvi6+gtSs3FT1WSr6fyYpAqpeNAqrUXA3jCW358L3VGGXquTeTI3mvYpclx1GizqnFSj5+8EhjnctIhVn7IVjf+gd6btt47JurHLOKH/xNJ0qzvcBchz57mo3FeXymF8RYAHYvos4wagMbgZU68PCJNOpXfG3LS9dFg+DJikSBhz2LAd8K4q6KnWqWv+zXY8WZm7hrbCJqDsJsSYlL2TqLUk9XOulLKHESXl4FZA4tyyEPfw5JXPP44o4+3DHS"
 }
