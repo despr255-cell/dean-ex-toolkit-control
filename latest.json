@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.65",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.65/Dean_ExToolkit_v1.9.65_UPDATE.zip",
-    "sha256": "6a2e6377519357b6386174c0b855d2d46233e06baa8fba3a33a61aca5f2c75a3",
-    "notes": "Removed all plugin-side manipulation of text Character panel Horizontal Scale and Vertical Scale from Glow Green and Bonus Blue. Removed scale normalization, scale animator deletion, TextDocument horizontalScale/verticalScale writes, and unsupported expression methods. The plugin now leaves those text parameters entirely untouched. Button label remains Bonus Blue."
+    "version": "1.9.66",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.66/Dean_ExToolkit_v1.9.66_UPDATE.zip",
+    "sha256": "f0b9a6ea0f66f88eac7abd89d825e7e0ec5137ae312496c69a84fede7396f5f2",
+    "notes": "Glow Green SHADOW and Bonus Blue STROKE now follow MAIN layer Transform > Scale through expressions. Added Spinbetter Basic White (Futura PT Extra Bold, white fill, #EFFF48 1.2 px stroke, tracking 16), Coldbet Basic White (Rubik Black, #FFFFFF fill), Basic Orange (Rubik Black, #FFA73A fill), and Basic Stroke White (Rubik Black, fill off, 4 px white stroke). Added supplied hover previews for all four buttons."
   },
-  "signature": "Ovtvct6t7Bxmu5n9Zr7J6FhuRXmNGOfZEVMzYH9ZRmGZdoHM6U+iZihKTWloQnPCAl1tYwbrAyYDYBrYRUuCnkvSYi7kaD5qqaUWtZP/TRxHR67ghDV5VSTfAc8wgNdci66IpGYjfeJewZEOOsP3led5Kj0wHd6YuXrdk6FJbRTsTZx6ebQx7ml/sgYRHfN27EZO1kZc7m3uiyh3/JLUWLOL4jGnuWklwRBOntvYn6wDIrDt6//MbUCeULvjz3QMGRWPgpvV/WagQAOou+cuUlxpGl2sY2JZigckDMBceUBynqtz0mj4Q12mpro4ZcWUP7XqqT/M1zJD1fJfXkVUSYPgsNiH3fkaKVBSOxWAQTO4+Yj5VZJC5XSSveDITrNoA30cSfbFz37Aak8zwCb31v0XBFmdDFSvguJ04LZ7DwumkS392FgahlmSKiRO/p0wHFzHOqYG65bOPNoa7Kg151Xw2VzXdyk+pwphvGPiuGfrImwbouRcazpnj0F7jnRS"
+  "signature": "kLdzz+Sd7Y1PRDXDppQMJcADN+aVDCERGrsZ3ATG9SrwydULgxvhONpI4RXRTv9QvcLvdFBLFNANrBkcQfybsNNp+va77lzJ/cKR/Pqt4B1tnsnzQQXwWIdTp19y0Ecy1sS9ltiPFWuUD84o4DCGHtpxp3/rVqPS8epGPWMbcm3iaFgAyiEN8aufl4yCxSUH+e94lmjTTz3Rf/Q+qOJ0whcLy8hGQ2kbg/Nz5/9f8gvI9tK2RC97IZpC977IWY9YjkDlfZv9nFkIDtHfXJhLcLJNS5fm2Xz9eM17rDXYpslvmPjMFt6pIEN2RgUXR2f9w6YzGB6AEwSp5QTeCfEyaPnw5Df4O15ktl4SGkxttNEL8zWnRNQ3dEOcpZezSyhwpDvXNb8bxKorutebUGJ6S5SNeX+g+2y3Ar6LLx2SGaDH1mdKF2xSZ12yE3j7mwZu1PUtrwUEcH0kV+HjHfhE86/OmPUaGZKqplQHgGneTRQUxsVFeSFRGe1uglHT0n3U"
 }
