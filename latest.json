@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.63",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.63/Dean_ExToolkit_v1.9.63_UPDATE.zip",
-    "sha256": "4a5cbba48264a0d9baaf3f739dfd4ce1ad70568a2f440118e8273ed42720b2a7",
-    "notes": "Glow Green now uses Futura PT Bold. Glow Green and Blue Bonus normalize horizontal/vertical character scale to 100% and remove text scale animators. Blue Bonus STROKE is a native 5 px text stroke (no Layer Styles fill), retains the FFX transparency mask and stroke color, follows MAIN text styling-preserving text expression, and tracks MAIN position with a 15 px left offset."
+    "version": "1.9.64",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.64/Dean_ExToolkit_v1.9.64_UPDATE.zip",
+    "sha256": "e1f76458ece6fbd2d7c8c413ce5702626dcea5e44f88740556315df0605bae2b",
+    "notes": "Fixes Character panel Horizontal Scale and Vertical Scale to exactly 100% for Glow Green and Bonus Blue, including live-linked shadow/stroke text styles. Renames the Coldbet button to Bonus Blue."
   },
-  "signature": "r2JbJaHCoH9wiN++eyL+h9GO6sqAQFrw8j1j1hrc1pdZ1NhALr/6TvJjswZtU9IBjRyVbHBH6Dzgf7LeoMfucmNjPiwxq7b3MRraHoVWKTCgdHBQkPipAzPyz6w8gYK1vIJVixlQ+NhRzlCM4J9rhv/GdU9z/57hylfNRono84CkqKN6U6gq+7pdWZHSj+pQ6WyCj8qjnOicnTogZEVq2xKMHl0UIdFBSzPIfXyC5cKbQioP3+/oMicGMnc20Ssc5p+yYnslr/BOmQRzU5gt1gB2CCBZgdBTXky5mR7sOplEsFZ2EwpZuI4kpRoZ8oFNq2ISTisWPqGfu78XgRyb/USh56XawB+53TCOHiAaJ2HHewzdb0eymz49ctjhEcRhwCDWp4obLN6eh8FMsZV7Q1ysmqEXb8GAL0X7yPS/aLzk1QCGUr8Dmj93tqWVGc7EkuQPLs7//vvWtxPDzDui8j9XcB7jThgTOiT1rgKIwkWcBZ0HzVbP18X65Kx7LqnP"
+  "signature": "TsPxF1nf1V084W1LT2sMICKenMVjKw0eb15S8qxhOiok24cHOUhHG0mkUMTimDNOY/ZEed+p8jGqWM9rYazfXEAa2pPg3GpieI8eu0jWpl2GVvsH9viV8VZQKKBUQNDCWDNNhWp+TqwrQWbBnF4sZQNJVQbnTe0eu9yRHC1S5zG0i3PflPGHALVK6Dic9yVtiuVSCumOeTvuEwSCUpB59IaSQkFO3wnX9/ohBNr4FIWa49KILcTJWX/sfNYeALvPxuexLEyUTVCDtax4V61Q5hdET2b3RE5oa2HI3VzH1w/qz0ujBF6wQ0eZu7y8EupEkYSQRjhFXqGubU7e64M3il9qwvzx37OszK4XMzM7lxrN1p0+lj3YHOM0CmmfC4mVpwbD2h8ZfGaIaOUHWdW+oG9eRa/K1/HKNVaCM6E4QQ+xQJnazivXt1k70DcsFByz1KAkF4VrN/HUZnlH6h7IEQSo4eZH01+/QZpOahYuV3EwZcqxKRZ+TqbSvOCGGZMN"
 }
