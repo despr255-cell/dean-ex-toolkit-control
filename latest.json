@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.73",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.73/Dean_ExToolkit_v1.9.73_UPDATE.zip",
-    "sha256": "0c8d2191a3d7223c70c3ccd76dda41b8c68948f288d35a6597e4cda0a2a2170b",
-    "notes": "Bonus Blue STROKE Scale now follows MAIN with 103% horizontal scale and 100% vertical scale. Glow Green composite scale remains unchanged. Previous fixes retained."
+    "version": "1.9.75",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.75/Dean_ExToolkit_v1.9.75_UPDATE.zip",
+    "sha256": "1c59db363b902c50a7bc87790ea9f544dfc2efd58dd53bce8e32be3469318c96",
+    "notes": "Added unlimited multi-stage Balance Counter with independent target, count duration and pause per stage. Updated RESET BALANCE to remove the new expression. One shared Windows CEP package targets CSXS 11.0 for AE 2024 and AE 2026; existing features and presets retained."
   },
-  "signature": "GefcYaNEOf9EdSZ1kvTSK/sCo69yHUoK1yqGK9JFOla32iSU2+IVwEKwZOg683V1oqUB36kKRJDegI+LKT7B7D5KIbcm1nRnCZFt/EKNhFun+TY+Hl2LJWCs4H0XZGet6E8vMUQUuv7QDqJvF9kisMdPHvru5XzRAYkLS/YLNh/Q2nP4ZiRk7QE5Wjce2fY2NAc+JXtShHb998yQ5AK+7V7FW5BAiikpk6nQSItLYpMVXQK5zDCA/XZQQRhs92b3AQeRoNi/jqWUQSkbx2KLj9GRADRq2zveHw9ycRHYW/TnasW58YyX+Oka9RA5Y6ECYpjme1FcmCSyrLUmRCReGwfD9G5Yhcz+9BpFxk2k1+7yDFK8cG3I/tAvJOofK+Ns0atD6sNuxwNm5/Nsra/2x97IdmVwmCvfaI5RSx+y3OfLsmQNXg6p8Hxgw7wdEvAyRnvyDDwpMQ+DzxhcDXcZyEyKADje4lGlVdJy7BJX4bgXALUca4v4ruEmPifXNZme"
+  "signature": "fjUWUd3odNM0YsPol3dk9wmh/UxDyu8tioGjF+b5RLYB0vyFAZOaqw7ruPKOBMHSji13OyVf7a8o14o4Y38EPo0xtONf4aZiZI6pE0Of7Y81PqDh5AQVDxK6/RXvENaN1hpgBQC8OEQYRpo13iRp+i31dtceWCy96bQiOn4bYzDdn98tfB1L2xUFUD5D+I38Ccr0O2ORD37xYi8JTn80sF9rLR6ORO00XcGg4XqtioBhs/8gON/TuxnVPD8w4T22FkwaBPi3ef1+DDD0TcJ0fnNo10a2mT6laPgTOl1uRhaXHvkG/DfdtD/ujZTrX3afokBUvYBEn9pM7ptVAqVlRLfaO2IoncgcDgD1o5fonIucgeK8ezVV/gpH/89Nfz1y+AHsrF4YYIDIS+G0Zb8vaXq5X5p8aFLZ7JC51pWrThde8T/N1YGEvKl79GNxrOcYkcqOXWiopJHms212X+OEIJZ135FmSlMYqhUjCRm5DXzuwj2mPx+6MsZuCytkVcgM"
 }
