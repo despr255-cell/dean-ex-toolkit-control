@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.78",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.78/Dean_ExToolkit_v1.9.78_UNIVERSAL_UPDATE.zip",
-    "sha256": "9385dd720e226cddb56650bae8faa79ea4dae09d13ddb68a117506abf42d566f",
-    "notes": "Universal Windows/macOS CEP package. Preserves Windows Multi-Stage Balance and adds macOS updater selection plus the initial remote license check. Includes both platform updaters."
+    "version": "1.9.79",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.79/Dean_ExToolkit_v1.9.79_UNIVERSAL_UPDATE.zip",
+    "sha256": "6d29503df33e64f0f2102fe17d9396ab8ccd6785af8a7b3d729a7d9e447e3c76",
+    "notes": "Universal Windows/macOS CEP package. Fixes COLDBET BONUS BLUE STROKE mask positioning by centering the existing mask to the STROKE text bounds. Preserves the existing mask shape, gradient, outline settings, and other plugin features. Includes both platform updaters."
   },
-  "signature": "rquRNYMKcWD/04Vc6Wl4eSSuZswDJMff6uTsQHNTDW+/r+aEykltmdOMkCy6P9QG/iJNouRTW5FGXJ2/O1FARn/Jowj1tp9enm4LqsRuFR3BImBqVXGmDjDIrVMMooaINfpvNQRk9/olwYe5jcPaf+6cUIFHmIc3cQQboYTYOmBjuN03WlGxvmOu9VekJb2D/kM94Bu66+sWsBeV421GQCt6J847hxpXh0m4wCKVDU5N8pagKx3MsVCj+mQBNOe8L2WM+4xVVW+5FfqALo6bA2x4ZAt8EPdoTJZPMlU3S3ZbtxUoyBwN09pIpQe+xYgW/6INxt9qRh0UZSQalIzXMYJbLa9mg7H5tyXRJqCinA/OIPDsGp9LNThTzFPNf0NczOX6ZOwCoN0FbrZcuBax/EJBkePJ0/rnl4ZkCNG2bYTiMH5RJgcHdo81ZdxL1pNQf64HeA+0SbRXgvo9YUzAS4hqDFYcdVWYomKdNbiz1M8uxZjqSgzWmyvi63iZpKaP"
+  "signature": "DbqlydlvxeRQS8k8Rco7Hs1E//fITgME+DEb3oBHBbWtxTKnd0RjLF1GwYDJO/qNCgsbfaxem5blM1K2rXok0XgE8YXcKDpOJILtYGVohepzOOArYx7Yi8Elum6vOr+R/IJ+QQ7E5fZajwnzYAJtDgWViCnFmg9Zli/uBgHGVWo9F6uFZ2onFT7DlWWwHOAITr7dbhtxjgYbPRRxGwOgJlWDRr9XcLHv0Okc4eiPoQOtZ7ozNMFd3TpP/vCA0k0wLwIJGF50/88tvdL92mBZTxk4xrOf7fX9++n6cBhWtgcFPc1M1S1vIuM7UmQNEwd2yAdcCvqgekG15DVWDH5vYjEQHePs/C/0NFhNCZz/00t4Jv6bYwKKwZOiCsLjkYmzYQqBtHcEYGFuklvXbvjhLZFebPIBq9oGaJcQ6kdVNX8Eg33PmRk23lC40tWmKag+11Xvz/MNGz1dOduOvLZiQpOyvjLW6IriZsCcWDu/W1P1IL6A2BwVdTIcN0Ay0Ppd"
 }
