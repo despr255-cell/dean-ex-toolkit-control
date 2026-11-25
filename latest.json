@@ -1,9 +1,9 @@
 {
   "release": {
-    "version": "1.9.75",
-    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.75/Dean_ExToolkit_v1.9.75_UPDATE.zip",
-    "sha256": "1c59db363b902c50a7bc87790ea9f544dfc2efd58dd53bce8e32be3469318c96",
-    "notes": "Added unlimited multi-stage Balance Counter with independent target, count duration and pause per stage. Updated RESET BALANCE to remove the new expression. One shared Windows CEP package targets CSXS 11.0 for AE 2024 and AE 2026; existing features and presets retained."
+    "version": "1.9.78",
+    "download_url": "https://github.com/despr255-cell/dean-ex-toolkit-control/releases/download/1.9.78/Dean_ExToolkit_v1.9.78_UNIVERSAL_UPDATE.zip",
+    "sha256": "9385dd720e226cddb56650bae8faa79ea4dae09d13ddb68a117506abf42d566f",
+    "notes": "Universal Windows/macOS CEP package. Preserves Windows Multi-Stage Balance and adds macOS updater selection plus the initial remote license check. Includes both platform updaters."
   },
-  "signature": "fjUWUd3odNM0YsPol3dk9wmh/UxDyu8tioGjF+b5RLYB0vyFAZOaqw7ruPKOBMHSji13OyVf7a8o14o4Y38EPo0xtONf4aZiZI6pE0Of7Y81PqDh5AQVDxK6/RXvENaN1hpgBQC8OEQYRpo13iRp+i31dtceWCy96bQiOn4bYzDdn98tfB1L2xUFUD5D+I38Ccr0O2ORD37xYi8JTn80sF9rLR6ORO00XcGg4XqtioBhs/8gON/TuxnVPD8w4T22FkwaBPi3ef1+DDD0TcJ0fnNo10a2mT6laPgTOl1uRhaXHvkG/DfdtD/ujZTrX3afokBUvYBEn9pM7ptVAqVlRLfaO2IoncgcDgD1o5fonIucgeK8ezVV/gpH/89Nfz1y+AHsrF4YYIDIS+G0Zb8vaXq5X5p8aFLZ7JC51pWrThde8T/N1YGEvKl79GNxrOcYkcqOXWiopJHms212X+OEIJZ135FmSlMYqhUjCRm5DXzuwj2mPx+6MsZuCytkVcgM"
+  "signature": "rquRNYMKcWD/04Vc6Wl4eSSuZswDJMff6uTsQHNTDW+/r+aEykltmdOMkCy6P9QG/iJNouRTW5FGXJ2/O1FARn/Jowj1tp9enm4LqsRuFR3BImBqVXGmDjDIrVMMooaINfpvNQRk9/olwYe5jcPaf+6cUIFHmIc3cQQboYTYOmBjuN03WlGxvmOu9VekJb2D/kM94Bu66+sWsBeV421GQCt6J847hxpXh0m4wCKVDU5N8pagKx3MsVCj+mQBNOe8L2WM+4xVVW+5FfqALo6bA2x4ZAt8EPdoTJZPMlU3S3ZbtxUoyBwN09pIpQe+xYgW/6INxt9qRh0UZSQalIzXMYJbLa9mg7H5tyXRJqCinA/OIPDsGp9LNThTzFPNf0NczOX6ZOwCoN0FbrZcuBax/EJBkePJ0/rnl4ZkCNG2bYTiMH5RJgcHdo81ZdxL1pNQf64HeA+0SbRXgvo9YUzAS4hqDFYcdVWYomKdNbiz1M8uxZjqSgzWmyvi63iZpKaP"
 }
